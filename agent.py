@@ -1,69 +1,48 @@
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import chromadb
+from langchain.agents import initialize_agent, AgentType
+from langchain.tools import Tool
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
+from langchain.chains import LLMMathChain
+import pandas as pd
 
-# ------------------ Load ChromaDB Collection ------------------
-client = chromadb.Client()
-collection = client.get_or_create_collection("energial_data")
+# Load datasets
+energy = pd.read_csv("data/energy_consumption.csv")
+generation = pd.read_csv("data/energy_generation.csv")
+weather = pd.read_csv("data/weather.csv")
+buildings = pd.read_csv("data/building_information.csv")
 
-# ------------------ Load Data ------------------
-@st.cache_data
-def load_data():
-    data = {}
-    for file in ["energy_consumption.csv", "energy_generation.csv", "weather.csv", "building_information.csv"]:
-        data[file] = pd.read_csv(f"data/{file}")
-    return data
-
-data = load_data()
-
-# ------------------ Setup NVIDIA Mistral Agent ------------------
-agent = ChatNVIDIA(
+# Define Mistral agent
+llm = ChatNVIDIA(
     model="mistralai/mistral-7b-instruct-v0.3",
-    api_key="",  # Only needed if running outside NGC
     temperature=0.2,
     top_p=0.7,
     max_tokens=1024,
+    api_key="your_nvidia_api_key"
 )
 
-def ask_agent(query):
-    for chunk in agent.stream([{"role": "user", "content": query}]):
-        yield chunk.content
+# Define dataset tools
+def get_energy_summary(_):
+    return energy.describe().to_string()
 
-# ------------------ Dashboard Layout ------------------
-st.title("EnergiAI 🌱 – Carbon-Aware Energy Dashboard")
-tab1, tab2, tab3 = st.tabs(["📊 Dashboard", "🧠 AI Assistant", "📁 Datasets"])
+def get_generation_summary(_):
+    return generation.describe().to_string()
 
-# ------------------ Charts ------------------
-with tab1:
-    st.header("Energy Usage per Building")
-    fig1, ax1 = plt.subplots()
-    df1 = data["energy_consumption.csv"]
-    df1.groupby("building_id")["energy_usage"].sum().plot(kind="bar", ax=ax1)
-    st.pyplot(fig1)
+tools = [
+    Tool(name="Energy Summary", func=get_energy_summary, description="Summary of energy consumption data"),
+    Tool(name="Generation Summary", func=get_generation_summary, description="Summary of energy generation data")
+]
 
-    st.header("Estimated Carbon Emissions")
-    carbon_factors = {"coal": 820, "natural_gas": 490, "solar": 45, "wind": 12}
-    df2 = data["energy_consumption.csv"]
-    df2["carbon_emission"] = df2.apply(lambda r: carbon_factors.get(r["energy_source"], 100) * r["energy_usage"], axis=1)
-    fig2, ax2 = plt.subplots()
-    df2.groupby("energy_source")["carbon_emission"].sum().plot(kind="bar", ax=ax2, color='orange')
-    st.pyplot(fig2)
+agent = initialize_agent(
+    tools,
+    llm,
+    agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+    verbose=True
+)
 
-# ------------------ Agent Chat ------------------
-with tab2:
-    st.header("Agentic AI Assistant 🤖")
-    query = st.text_input("Ask your AI assistant (e.g., How to reduce carbon usage?)")
-    if query:
-        st.markdown("**Answer:**")
-        response = ""
-        for chunk in ask_agent(query):
-            response += chunk
-            st.write(response)
+# Ask Mistral to generate chart code
+query = """Using the 4 datasets available, generate Python code to create Streamlit charts 
+that show energy usage over time, most used energy source, and carbon emission trends. 
+Return only the code block."""
+response = agent.run(query)
 
-# ------------------ View Datasets ------------------
-with tab3:
-    for name, df in data.items():
-        st.subheader(name)
-        st.dataframe(df)
+print("🧠 Mistral agent responded with Streamlit code:\n")
+print(response)
