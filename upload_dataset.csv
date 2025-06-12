@@ -8,13 +8,12 @@ collection = client.get_or_create_collection("energial_data")
  
 # Dataset metadata and formatting
 datasets = {
-    "energy_usage.csv": lambda row: f"Timestamp: {row['timestamp']}, Energy: {row['energy']} kWh, Carbon Intensity: {row['carbon_intensity']} gCO2/kWh",
-    "device_consumption.csv": lambda row: f"Device: {row['device']} used for {row['usage_time']} hrs, Consumed: {row['energy_consumed']} kWh",
-    "building_info.csv": lambda row: f"Building ID: {row['building_ID']}, Location: {row['location']}, Occupancy: {row['occupancy']}, Type: {row['type']}",
-    "carbon_report.csv": lambda row: f"Region: {row['region']}, Timestamp: {row['timestamp']}, Carbon Output: {row['carbon_output']} gCO2eq, Threshold: {row['regulatory_threshold']}"
+    "energy_consumption.csv": lambda row: f"Timestamp: {row['timestamp']}, Building_id: {row['building_id']},Energy_usage: {row['energy_usage']} kWh, Energy_source: {row['energy_source']} , Temperature: {row['temperature']},Humidity: {row['humidity']}, ",
+    "energy_generation.csv": lambda row: f"Timestamp: {row['timestamp']} ,Energy_source: {row['energy_source']},,Energy_usage: {row['energy_usage']} kWh, Location: {row['location']} ",
+    "building_information.csv": lambda row: f"Timestamp: {row['timestamp']}, Location: {row['location']}, Temperature: {row['temperature']},Humidity: {row['humidity']}, Solar_irradiance: {row['solar_irradiance']}",
+    "carbon_report.csv": lambda row: f"Timestamp: {row['timestamp']}, Energy_source: {row['energy_source']}, Energy_source: {row['energy_source']} , Location: {row['location']}"
 }
 
-# Load and insert each dataset
 for file, formatter in datasets.items():
     df = pd.read_csv(f"data/{file}")
     for i, row in df.iterrows():
