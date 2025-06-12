@@ -1,0 +1,14 @@
+import chromadb
+
+# Initialize ChromaDB client
+client = chromadb.Client()
+
+# Get the collection you created (replace with your collection name if different)
+collection = client.get_collection("energial_data")
+
+# Fetch all documents (limit can be increased as needed)
+results = collection.get()
+
+# Print documents and their IDs
+for doc_id, doc in zip(results['ids'], results['documents']):
+    print(f"🆔 {doc_id}\n📄 {doc}\n{'-'*50}")
