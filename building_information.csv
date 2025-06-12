@@ -1,0 +1,201 @@
+building_id,building_name,location,building_type,square_footage
+1,"Rodriguez, Figueroa and Sanchez Building",New York,office,31490
+2,Doyle Ltd Building,Chicago,residential,2465
+3,"Mcclain, Miller and Henderson Building",Los Angeles,residential,2661
+4,Davis and Sons Building,New York,hospital,69138
+5,"Guzman, Hoffman and Baldwin Building",New York,hospital,58595
+6,"Gardner, Robinson and Lawrence Building",Houston,office,29297
+7,Blake and Sons Building,New York,office,34737
+8,"Henderson, Ramirez and Lewis Building",Los Angeles,residential,2691
+9,Garcia-James Building,Phoenix,hospital,57183
+10,Abbott-Munoz Building,New York,hospital,63255
+11,Blair PLC Building,Los Angeles,hospital,57219
+12,Dudley Group Building,Houston,residential,2383
+13,Arnold Ltd Building,Houston,hospital,61451
+14,"Mcclure, Ward and Lee Building",Chicago,office,24260
+15,Williams and Sons Building,Los Angeles,school,33100
+16,Galloway-Wyatt Building,Chicago,warehouse,47188
+17,James Group Building,Los Angeles,residential,2246
+18,"Flowers, Martin and Kelly Building",Chicago,office,30942
+19,"Adams, Zuniga and Wong Building",New York,school,36367
+20,"Reid, Ferguson and Sanchez Building",New York,warehouse,42938
+21,Gray-Mayo Building,Chicago,hospital,68793
+22,"Watts, Robinson and Nguyen Building",Chicago,office,29322
+23,Perez Inc Building,Houston,hospital,60405
+24,Morales-Jones Building,New York,school,34301
+25,"Walter, Edwards and Rios Building",New York,hospital,56733
+26,Wilkerson-Day Building,Chicago,hospital,60665
+27,Baker and Sons Building,Chicago,hospital,53094
+28,"Hoffman, Baker and Richards Building",Los Angeles,office,31127
+29,"Ross, Robinson and Bright Building",New York,residential,2349
+30,"Snyder, Campos and Callahan Building",Chicago,office,29124
+31,Burton Ltd Building,Los Angeles,office,28194
+32,Carlson-Cruz Building,Houston,warehouse,59261
+33,"Ferrell, Rice and Maddox Building",Houston,warehouse,49932
+34,Frazier Inc Building,Los Angeles,warehouse,44711
+35,"Dyer, Potter and Mack Building",Chicago,residential,2705
+36,Rodriguez-Graham Building,Chicago,office,26337
+37,Smith-Bowen Building,Phoenix,residential,2552
+38,"Baker, Mason and White Building",Phoenix,residential,2010
+39,Harrell LLC Building,Los Angeles,school,34687
+40,"Romero, Gonzalez and Brooks Building",Houston,warehouse,50984
+41,Ryan PLC Building,Phoenix,residential,2684
+42,George Group Building,Chicago,office,30514
+43,Rodriguez LLC Building,Los Angeles,office,29653
+44,Allen-Allen Building,Chicago,school,38795
+45,"Arroyo, Miller and Tucker Building",Chicago,office,25564
+46,Spence PLC Building,Los Angeles,hospital,55680
+47,Anderson Group Building,Chicago,residential,2384
+48,"Martin, Rose and Obrien Building",Houston,school,44228
+49,Hickman Ltd Building,Houston,residential,2585
+50,"Harris, Collins and Carney Building",Chicago,residential,2059
+51,"Brooks, Lam and Hayes Building",Los Angeles,hospital,61944
+52,Walker LLC Building,Phoenix,warehouse,48074
+53,Chapman and Sons Building,Phoenix,school,37292
+54,"Robinson, Jones and Welch Building",Phoenix,school,42446
+55,Jones Inc Building,Chicago,residential,2757
+56,Jones-Young Building,Los Angeles,hospital,65587
+57,"Washington, Ryan and Cummings Building",Houston,office,27482
+58,"Johnston, Sanchez and Kennedy Building",New York,office,29072
+59,Lee-Davis Building,Los Angeles,residential,2582
+60,Gomez-Jenkins Building,Houston,hospital,65853
+61,"Brown, Valdez and Lucas Building",New York,school,38083
+62,Powell LLC Building,Houston,hospital,58886
+63,Wright and Sons Building,Houston,hospital,53361
+64,"West, Henderson and Ramirez Building",Chicago,hospital,52822
+65,Baxter Inc Building,New York,office,32437
+66,Morton-Chase Building,Phoenix,warehouse,56781
+67,Williams PLC Building,Chicago,office,29783
+68,Novak and Sons Building,Chicago,school,44014
+69,Russell Group Building,Los Angeles,school,41446
+70,Hancock Inc Building,New York,warehouse,46774
+71,Gray Group Building,Phoenix,residential,2590
+72,House-Glover Building,Phoenix,office,34614
+73,Henderson-Bernard Building,Chicago,hospital,59785
+74,"Stanley, Tucker and Lee Building",Phoenix,residential,2891
+75,Novak PLC Building,Los Angeles,warehouse,36901
+76,"Daniels, Adkins and Brown Building",Los Angeles,hospital,64931
+77,"Woods, Calhoun and Schmidt Building",Phoenix,office,30261
+78,Yu Inc Building,Phoenix,warehouse,48504
+79,Jones Inc Building,Houston,office,30275
+80,"Hensley, Powell and David Building",New York,warehouse,40062
+81,"Sanchez, Wheeler and Harvey Building",Chicago,residential,2445
+82,Sandoval-Cunningham Building,New York,residential,2589
+83,Donovan-Harris Building,Phoenix,office,34433
+84,"Edwards, Baker and Anderson Building",New York,school,37926
+85,"Evans, Stewart and Walton Building",New York,hospital,55149
+86,Smith PLC Building,Los Angeles,residential,2374
+87,"Ferrell, Jones and Lewis Building",Houston,hospital,65492
+88,Anderson-Bailey Building,Los Angeles,warehouse,51643
+89,Suarez LLC Building,Phoenix,hospital,56821
+90,Moore-Bass Building,Houston,residential,2628
+91,"Turner, Riggs and Roman Building",Phoenix,residential,2524
+92,"Smith, Montoya and Evans Building",Chicago,school,43874
+93,"Garcia, Humphrey and Baker Building",Chicago,school,37191
+94,Newton and Sons Building,Phoenix,school,38689
+95,Campbell-Clark Building,New York,residential,2401
+96,Harris-Walters Building,Los Angeles,office,25609
+97,Wagner-King Building,Chicago,office,30888
+98,Davis Group Building,Phoenix,hospital,61566
+99,Williams-Cook Building,Los Angeles,hospital,60030
+100,Walsh LLC Building,Los Angeles,office,29296
+101,Figueroa PLC Building,New York,office,25753
+102,"Patterson, Smith and Jones Building",Los Angeles,office,28738
+103,"Mckee, Gardner and Davenport Building",New York,warehouse,48286
+104,"Tran, Jordan and Williams Building",New York,hospital,55186
+105,Nolan-Flynn Building,Los Angeles,warehouse,49193
+106,Nolan and Sons Building,Houston,residential,2601
+107,"Wright, Garcia and Deleon Building",Phoenix,residential,2971
+108,Dickson-Brady Building,Phoenix,hospital,61047
+109,Hancock and Sons Building,Houston,residential,2564
+110,Johnson-Doyle Building,Houston,school,39702
+111,Patton-Jenkins Building,Los Angeles,office,24243
+112,"Shields, Cochran and Adams Building",New York,school,39893
+113,"Rodriguez, Brennan and Garrison Building",Chicago,school,40240
+114,Gonzalez Group Building,Houston,school,49852
+115,Torres-Pope Building,New York,office,29422
+116,Walker Ltd Building,New York,school,41206
+117,Ross LLC Building,Chicago,office,29895
+118,Rasmussen LLC Building,Los Angeles,residential,2207
+119,May-Ross Building,Los Angeles,hospital,66856
+120,"Rivera, Johnson and Wiley Building",Houston,residential,2687
+121,White-Estes Building,Houston,residential,2697
+122,Johnson-Carlson Building,Chicago,school,36362
+123,Chandler-Edwards Building,Los Angeles,office,34208
+124,"Joyce, Wilson and Lam Building",Houston,hospital,51588
+125,Scott Ltd Building,New York,office,31760
+126,Smith-Frost Building,Phoenix,office,36571
+127,"Mcdaniel, Bentley and Mclaughlin Building",New York,residential,2252
+128,Diaz Inc Building,Los Angeles,school,37734
+129,"Mccall, Hanson and Alvarado Building",Houston,school,40398
+130,Cortez LLC Building,Los Angeles,school,37986
+131,"Parker, Ortiz and Powell Building",New York,residential,2112
+132,Spencer-Lee Building,Houston,office,30205
+133,"Bentley, Byrd and Orr Building",Houston,warehouse,44688
+134,"Carroll, Sullivan and Bass Building",Houston,warehouse,52367
+135,Mitchell-Jordan Building,Houston,hospital,54483
+136,"Lawson, Morris and Ramos Building",Houston,residential,2887
+137,"Lewis, Kennedy and Santana Building",Los Angeles,warehouse,46083
+138,"Jackson, Miller and Robertson Building",Los Angeles,office,29033
+139,"Harvey, Davis and Crane Building",Phoenix,hospital,64881
+140,Chambers and Sons Building,New York,warehouse,43845
+141,Hernandez Inc Building,New York,office,30682
+142,Riggs PLC Building,Phoenix,school,45228
+143,Gibson Ltd Building,Phoenix,hospital,50355
+144,"Lee, Horton and Snyder Building",Los Angeles,office,30553
+145,Hernandez Ltd Building,Phoenix,office,30779
+146,Stafford Inc Building,Los Angeles,office,32345
+147,Robinson-Brock Building,Phoenix,office,26289
+148,"Holmes, Williams and Wright Building",Los Angeles,school,34718
+149,Bryant Group Building,New York,hospital,63131
+150,"Schmidt, Hansen and Stewart Building",Los Angeles,hospital,61781
+151,Salazar-Ball Building,Phoenix,office,30751
+152,"Simmons, Meadows and Griffin Building",Phoenix,office,31039
+153,Manning Group Building,Houston,hospital,55919
+154,Green-Wright Building,Phoenix,hospital,61393
+155,"Ramirez, Strickland and Washington Building",Chicago,warehouse,51465
+156,Hill Inc Building,Los Angeles,warehouse,46428
+157,"Mitchell, Nelson and Flores Building",Los Angeles,warehouse,59328
+158,"Miller, Hernandez and Reyes Building",Houston,residential,2618
+159,Mccarthy Inc Building,Chicago,school,35234
+160,Russell-Daniels Building,Chicago,office,31969
+161,Brown-Wall Building,New York,school,36101
+162,Stein-Silva Building,Phoenix,hospital,64722
+163,"Smith, Gilmore and Johnston Building",New York,office,33475
+164,Smith-Bell Building,Phoenix,residential,2294
+165,Castaneda-Ashley Building,Phoenix,warehouse,54816
+166,Medina-Navarro Building,Los Angeles,warehouse,52063
+167,"Hurst, Freeman and Nelson Building",New York,residential,2705
+168,Johnson-Rogers Building,Chicago,warehouse,59483
+169,"Yates, Ramsey and Pittman Building",Los Angeles,school,39018
+170,Hooper PLC Building,Phoenix,warehouse,46231
+171,Meadows PLC Building,Phoenix,hospital,54662
+172,"Alvarado, Miller and Patterson Building",New York,hospital,55105
+173,White-Green Building,Chicago,office,29768
+174,Lewis-Murphy Building,Los Angeles,warehouse,51705
+175,Ramirez-Bean Building,New York,office,30830
+176,King-Miller Building,Phoenix,residential,2706
+177,Curry Inc Building,Chicago,warehouse,50065
+178,Walker-Jones Building,Phoenix,residential,2863
+179,"Williams, Johnson and Wright Building",Chicago,residential,2433
+180,Howell and Sons Building,Chicago,hospital,76321
+181,Wells Inc Building,Houston,warehouse,53128
+182,"Gould, Marshall and Scott Building",New York,office,27428
+183,Jackson-Lawson Building,Houston,warehouse,44645
+184,"Higgins, Strickland and Martin Building",New York,office,31447
+185,Rodriguez-Johnson Building,Chicago,residential,2444
+186,Johnston-Odonnell Building,Chicago,residential,2678
+187,Sanders-Espinoza Building,Houston,hospital,62839
+188,Vargas Ltd Building,Houston,hospital,59563
+189,Garcia LLC Building,New York,office,27459
+190,"Burke, Martinez and Riggs Building",New York,residential,2121
+191,Reed Group Building,Phoenix,office,28660
+192,"Wood, Hunter and Peterson Building",Chicago,hospital,65138
+193,Short-Garcia Building,Phoenix,residential,2553
+194,Reid-Poole Building,Houston,residential,2188
+195,"Hernandez, Thompson and Boyd Building",New York,warehouse,50865
+196,"Nelson, Morton and Medina Building",Chicago,office,31155
+197,Marshall-Petersen Building,Chicago,residential,2279
+198,"Adams, Christian and Rivas Building",Los Angeles,office,30461
+199,Ramirez Group Building,Chicago,hospital,60349
+200,Christensen PLC Building,Houston,hospital,53142

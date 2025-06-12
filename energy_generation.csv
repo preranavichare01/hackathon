@@ -1,0 +1,2001 @@
+timestamp,energy_source,energy_generation,location
+2025-06-03 04:00:00,solar,0.0,New York
+2025-06-03 04:00:00,wind,276.461,New York
+2025-06-03 04:00:00,solar,0.0,Los Angeles
+2025-06-03 04:00:00,wind,165.224,Los Angeles
+2025-06-03 04:00:00,solar,0.0,Chicago
+2025-06-03 04:00:00,wind,323.001,Chicago
+2025-06-03 04:00:00,solar,0.0,Houston
+2025-06-03 04:00:00,wind,212.571,Houston
+2025-06-03 04:00:00,solar,0.0,Phoenix
+2025-06-03 04:00:00,wind,21.069,Phoenix
+2025-06-03 05:00:00,solar,0.0,New York
+2025-06-03 05:00:00,wind,298.194,New York
+2025-06-03 05:00:00,solar,0.0,Los Angeles
+2025-06-03 05:00:00,wind,107.994,Los Angeles
+2025-06-03 05:00:00,solar,0.0,Chicago
+2025-06-03 05:00:00,wind,289.788,Chicago
+2025-06-03 05:00:00,solar,0.0,Houston
+2025-06-03 05:00:00,wind,229.101,Houston
+2025-06-03 05:00:00,solar,0.0,Phoenix
+2025-06-03 05:00:00,wind,82.14,Phoenix
+2025-06-03 06:00:00,solar,15.441,New York
+2025-06-03 06:00:00,wind,284.559,New York
+2025-06-03 06:00:00,solar,0.658,Los Angeles
+2025-06-03 06:00:00,wind,105.413,Los Angeles
+2025-06-03 06:00:00,solar,0.0,Chicago
+2025-06-03 06:00:00,wind,351.253,Chicago
+2025-06-03 06:00:00,solar,0.0,Houston
+2025-06-03 06:00:00,wind,218.714,Houston
+2025-06-03 06:00:00,solar,0.0,Phoenix
+2025-06-03 06:00:00,wind,137.241,Phoenix
+2025-06-03 07:00:00,solar,40.703,New York
+2025-06-03 07:00:00,wind,194.151,New York
+2025-06-03 07:00:00,solar,42.817,Los Angeles
+2025-06-03 07:00:00,wind,133.264,Los Angeles
+2025-06-03 07:00:00,solar,59.074,Chicago
+2025-06-03 07:00:00,wind,335.48,Chicago
+2025-06-03 07:00:00,solar,53.187,Houston
+2025-06-03 07:00:00,wind,139.491,Houston
+2025-06-03 07:00:00,solar,63.204,Phoenix
+2025-06-03 07:00:00,wind,134.87,Phoenix
+2025-06-03 08:00:00,solar,82.894,New York
+2025-06-03 08:00:00,wind,122.796,New York
+2025-06-03 08:00:00,solar,81.075,Los Angeles
+2025-06-03 08:00:00,wind,129.448,Los Angeles
+2025-06-03 08:00:00,solar,81.613,Chicago
+2025-06-03 08:00:00,wind,370.145,Chicago
+2025-06-03 08:00:00,solar,101.446,Houston
+2025-06-03 08:00:00,wind,182.782,Houston
+2025-06-03 08:00:00,solar,111.718,Phoenix
+2025-06-03 08:00:00,wind,90.456,Phoenix
+2025-06-03 09:00:00,solar,107.882,New York
+2025-06-03 09:00:00,wind,167.054,New York
+2025-06-03 09:00:00,solar,153.719,Los Angeles
+2025-06-03 09:00:00,wind,204.103,Los Angeles
+2025-06-03 09:00:00,solar,135.245,Chicago
+2025-06-03 09:00:00,wind,333.479,Chicago
+2025-06-03 09:00:00,solar,144.158,Houston
+2025-06-03 09:00:00,wind,156.059,Houston
+2025-06-03 09:00:00,solar,174.041,Phoenix
+2025-06-03 09:00:00,wind,96.061,Phoenix
+2025-06-03 10:00:00,solar,143.178,New York
+2025-06-03 10:00:00,wind,211.901,New York
+2025-06-03 10:00:00,solar,175.295,Los Angeles
+2025-06-03 10:00:00,wind,261.903,Los Angeles
+2025-06-03 10:00:00,solar,154.453,Chicago
+2025-06-03 10:00:00,wind,274.058,Chicago
+2025-06-03 10:00:00,solar,133.033,Houston
+2025-06-03 10:00:00,wind,158.322,Houston
+2025-06-03 10:00:00,solar,186.286,Phoenix
+2025-06-03 10:00:00,wind,106.687,Phoenix
+2025-06-03 11:00:00,solar,177.667,New York
+2025-06-03 11:00:00,wind,155.034,New York
+2025-06-03 11:00:00,solar,148.447,Los Angeles
+2025-06-03 11:00:00,wind,228.391,Los Angeles
+2025-06-03 11:00:00,solar,155.943,Chicago
+2025-06-03 11:00:00,wind,253.884,Chicago
+2025-06-03 11:00:00,solar,156.304,Houston
+2025-06-03 11:00:00,wind,196.797,Houston
+2025-06-03 11:00:00,solar,199.267,Phoenix
+2025-06-03 11:00:00,wind,13.899,Phoenix
+2025-06-03 12:00:00,solar,154.383,New York
+2025-06-03 12:00:00,wind,245.813,New York
+2025-06-03 12:00:00,solar,182.525,Los Angeles
+2025-06-03 12:00:00,wind,249.464,Los Angeles
+2025-06-03 12:00:00,solar,166.06,Chicago
+2025-06-03 12:00:00,wind,201.957,Chicago
+2025-06-03 12:00:00,solar,197.384,Houston
+2025-06-03 12:00:00,wind,218.048,Houston
+2025-06-03 12:00:00,solar,232.41,Phoenix
+2025-06-03 12:00:00,wind,66.592,Phoenix
+2025-06-03 13:00:00,solar,179.493,New York
+2025-06-03 13:00:00,wind,311.627,New York
+2025-06-03 13:00:00,solar,200.025,Los Angeles
+2025-06-03 13:00:00,wind,129.113,Los Angeles
+2025-06-03 13:00:00,solar,160.845,Chicago
+2025-06-03 13:00:00,wind,318.188,Chicago
+2025-06-03 13:00:00,solar,145.838,Houston
+2025-06-03 13:00:00,wind,202.427,Houston
+2025-06-03 13:00:00,solar,188.065,Phoenix
+2025-06-03 13:00:00,wind,154.206,Phoenix
+2025-06-03 14:00:00,solar,129.918,New York
+2025-06-03 14:00:00,wind,289.916,New York
+2025-06-03 14:00:00,solar,160.798,Los Angeles
+2025-06-03 14:00:00,wind,168.198,Los Angeles
+2025-06-03 14:00:00,solar,143.415,Chicago
+2025-06-03 14:00:00,wind,291.818,Chicago
+2025-06-03 14:00:00,solar,163.92,Houston
+2025-06-03 14:00:00,wind,233.548,Houston
+2025-06-03 14:00:00,solar,200.687,Phoenix
+2025-06-03 14:00:00,wind,36.749,Phoenix
+2025-06-03 15:00:00,solar,102.091,New York
+2025-06-03 15:00:00,wind,242.926,New York
+2025-06-03 15:00:00,solar,157.536,Los Angeles
+2025-06-03 15:00:00,wind,152.336,Los Angeles
+2025-06-03 15:00:00,solar,137.099,Chicago
+2025-06-03 15:00:00,wind,238.382,Chicago
+2025-06-03 15:00:00,solar,112.102,Houston
+2025-06-03 15:00:00,wind,204.653,Houston
+2025-06-03 15:00:00,solar,161.611,Phoenix
+2025-06-03 15:00:00,wind,133.778,Phoenix
+2025-06-03 16:00:00,solar,99.347,New York
+2025-06-03 16:00:00,wind,221.906,New York
+2025-06-03 16:00:00,solar,83.869,Los Angeles
+2025-06-03 16:00:00,wind,203.76,Los Angeles
+2025-06-03 16:00:00,solar,89.435,Chicago
+2025-06-03 16:00:00,wind,321.641,Chicago
+2025-06-03 16:00:00,solar,100.938,Houston
+2025-06-03 16:00:00,wind,230.025,Houston
+2025-06-03 16:00:00,solar,116.076,Phoenix
+2025-06-03 16:00:00,wind,131.213,Phoenix
+2025-06-03 17:00:00,solar,49.143,New York
+2025-06-03 17:00:00,wind,307.244,New York
+2025-06-03 17:00:00,solar,68.086,Los Angeles
+2025-06-03 17:00:00,wind,196.286,Los Angeles
+2025-06-03 17:00:00,solar,36.42,Chicago
+2025-06-03 17:00:00,wind,342.74,Chicago
+2025-06-03 17:00:00,solar,45.845,Houston
+2025-06-03 17:00:00,wind,105.488,Houston
+2025-06-03 17:00:00,solar,54.178,Phoenix
+2025-06-03 17:00:00,wind,167.419,Phoenix
+2025-06-03 18:00:00,solar,0.0,New York
+2025-06-03 18:00:00,wind,162.402,New York
+2025-06-03 18:00:00,solar,0.0,Los Angeles
+2025-06-03 18:00:00,wind,270.092,Los Angeles
+2025-06-03 18:00:00,solar,0.0,Chicago
+2025-06-03 18:00:00,wind,262.312,Chicago
+2025-06-03 18:00:00,solar,9.56,Houston
+2025-06-03 18:00:00,wind,202.743,Houston
+2025-06-03 18:00:00,solar,10.454,Phoenix
+2025-06-03 18:00:00,wind,60.699,Phoenix
+2025-06-03 19:00:00,solar,0.0,New York
+2025-06-03 19:00:00,wind,306.752,New York
+2025-06-03 19:00:00,solar,0.0,Los Angeles
+2025-06-03 19:00:00,wind,178.708,Los Angeles
+2025-06-03 19:00:00,solar,0.0,Chicago
+2025-06-03 19:00:00,wind,290.419,Chicago
+2025-06-03 19:00:00,solar,0.0,Houston
+2025-06-03 19:00:00,wind,223.707,Houston
+2025-06-03 19:00:00,solar,0.0,Phoenix
+2025-06-03 19:00:00,wind,120.546,Phoenix
+2025-06-03 20:00:00,solar,0.0,New York
+2025-06-03 20:00:00,wind,221.782,New York
+2025-06-03 20:00:00,solar,0.0,Los Angeles
+2025-06-03 20:00:00,wind,189.149,Los Angeles
+2025-06-03 20:00:00,solar,0.0,Chicago
+2025-06-03 20:00:00,wind,309.171,Chicago
+2025-06-03 20:00:00,solar,0.0,Houston
+2025-06-03 20:00:00,wind,130.059,Houston
+2025-06-03 20:00:00,solar,0.0,Phoenix
+2025-06-03 20:00:00,wind,91.045,Phoenix
+2025-06-03 21:00:00,solar,0.0,New York
+2025-06-03 21:00:00,wind,320.446,New York
+2025-06-03 21:00:00,solar,0.0,Los Angeles
+2025-06-03 21:00:00,wind,209.617,Los Angeles
+2025-06-03 21:00:00,solar,0.0,Chicago
+2025-06-03 21:00:00,wind,261.111,Chicago
+2025-06-03 21:00:00,solar,0.0,Houston
+2025-06-03 21:00:00,wind,222.922,Houston
+2025-06-03 21:00:00,solar,0.0,Phoenix
+2025-06-03 21:00:00,wind,138.617,Phoenix
+2025-06-03 22:00:00,solar,0.0,New York
+2025-06-03 22:00:00,wind,335.882,New York
+2025-06-03 22:00:00,solar,0.0,Los Angeles
+2025-06-03 22:00:00,wind,197.059,Los Angeles
+2025-06-03 22:00:00,solar,0.0,Chicago
+2025-06-03 22:00:00,wind,346.87,Chicago
+2025-06-03 22:00:00,solar,0.0,Houston
+2025-06-03 22:00:00,wind,255.086,Houston
+2025-06-03 22:00:00,solar,0.0,Phoenix
+2025-06-03 22:00:00,wind,65.072,Phoenix
+2025-06-03 23:00:00,solar,0.0,New York
+2025-06-03 23:00:00,wind,128.669,New York
+2025-06-03 23:00:00,solar,0.0,Los Angeles
+2025-06-03 23:00:00,wind,136.236,Los Angeles
+2025-06-03 23:00:00,solar,0.0,Chicago
+2025-06-03 23:00:00,wind,236.877,Chicago
+2025-06-03 23:00:00,solar,0.0,Houston
+2025-06-03 23:00:00,wind,225.996,Houston
+2025-06-03 23:00:00,solar,0.0,Phoenix
+2025-06-03 23:00:00,wind,49.018,Phoenix
+2025-06-04 00:00:00,solar,0.0,New York
+2025-06-04 00:00:00,wind,210.231,New York
+2025-06-04 00:00:00,solar,0.0,Los Angeles
+2025-06-04 00:00:00,wind,213.474,Los Angeles
+2025-06-04 00:00:00,solar,0.0,Chicago
+2025-06-04 00:00:00,wind,283.836,Chicago
+2025-06-04 00:00:00,solar,0.0,Houston
+2025-06-04 00:00:00,wind,236.976,Houston
+2025-06-04 00:00:00,solar,0.0,Phoenix
+2025-06-04 00:00:00,wind,146.408,Phoenix
+2025-06-04 01:00:00,solar,0.0,New York
+2025-06-04 01:00:00,wind,200.372,New York
+2025-06-04 01:00:00,solar,0.0,Los Angeles
+2025-06-04 01:00:00,wind,173.986,Los Angeles
+2025-06-04 01:00:00,solar,0.0,Chicago
+2025-06-04 01:00:00,wind,349.54,Chicago
+2025-06-04 01:00:00,solar,0.0,Houston
+2025-06-04 01:00:00,wind,203.423,Houston
+2025-06-04 01:00:00,solar,0.0,Phoenix
+2025-06-04 01:00:00,wind,192.816,Phoenix
+2025-06-04 02:00:00,solar,0.0,New York
+2025-06-04 02:00:00,wind,287.755,New York
+2025-06-04 02:00:00,solar,0.0,Los Angeles
+2025-06-04 02:00:00,wind,149.887,Los Angeles
+2025-06-04 02:00:00,solar,0.0,Chicago
+2025-06-04 02:00:00,wind,352.579,Chicago
+2025-06-04 02:00:00,solar,0.0,Houston
+2025-06-04 02:00:00,wind,244.602,Houston
+2025-06-04 02:00:00,solar,0.0,Phoenix
+2025-06-04 02:00:00,wind,93.221,Phoenix
+2025-06-04 03:00:00,solar,0.0,New York
+2025-06-04 03:00:00,wind,300.659,New York
+2025-06-04 03:00:00,solar,0.0,Los Angeles
+2025-06-04 03:00:00,wind,224.572,Los Angeles
+2025-06-04 03:00:00,solar,0.0,Chicago
+2025-06-04 03:00:00,wind,322.203,Chicago
+2025-06-04 03:00:00,solar,0.0,Houston
+2025-06-04 03:00:00,wind,224.025,Houston
+2025-06-04 03:00:00,solar,0.0,Phoenix
+2025-06-04 03:00:00,wind,123.017,Phoenix
+2025-06-04 04:00:00,solar,0.0,New York
+2025-06-04 04:00:00,wind,287.414,New York
+2025-06-04 04:00:00,solar,0.0,Los Angeles
+2025-06-04 04:00:00,wind,196.097,Los Angeles
+2025-06-04 04:00:00,solar,0.0,Chicago
+2025-06-04 04:00:00,wind,259.088,Chicago
+2025-06-04 04:00:00,solar,0.0,Houston
+2025-06-04 04:00:00,wind,194.404,Houston
+2025-06-04 04:00:00,solar,0.0,Phoenix
+2025-06-04 04:00:00,wind,61.773,Phoenix
+2025-06-04 05:00:00,solar,0.0,New York
+2025-06-04 05:00:00,wind,282.296,New York
+2025-06-04 05:00:00,solar,0.0,Los Angeles
+2025-06-04 05:00:00,wind,196.841,Los Angeles
+2025-06-04 05:00:00,solar,0.0,Chicago
+2025-06-04 05:00:00,wind,354.208,Chicago
+2025-06-04 05:00:00,solar,0.0,Houston
+2025-06-04 05:00:00,wind,141.651,Houston
+2025-06-04 05:00:00,solar,0.0,Phoenix
+2025-06-04 05:00:00,wind,160.345,Phoenix
+2025-06-04 06:00:00,solar,0.0,New York
+2025-06-04 06:00:00,wind,141.492,New York
+2025-06-04 06:00:00,solar,1.812,Los Angeles
+2025-06-04 06:00:00,wind,132.23,Los Angeles
+2025-06-04 06:00:00,solar,0.0,Chicago
+2025-06-04 06:00:00,wind,248.485,Chicago
+2025-06-04 06:00:00,solar,18.659,Houston
+2025-06-04 06:00:00,wind,210.231,Houston
+2025-06-04 06:00:00,solar,0.0,Phoenix
+2025-06-04 06:00:00,wind,73.392,Phoenix
+2025-06-04 07:00:00,solar,48.053,New York
+2025-06-04 07:00:00,wind,251.884,New York
+2025-06-04 07:00:00,solar,48.577,Los Angeles
+2025-06-04 07:00:00,wind,126.662,Los Angeles
+2025-06-04 07:00:00,solar,34.358,Chicago
+2025-06-04 07:00:00,wind,311.809,Chicago
+2025-06-04 07:00:00,solar,56.189,Houston
+2025-06-04 07:00:00,wind,156.775,Houston
+2025-06-04 07:00:00,solar,52.233,Phoenix
+2025-06-04 07:00:00,wind,113.67,Phoenix
+2025-06-04 08:00:00,solar,100.898,New York
+2025-06-04 08:00:00,wind,251.105,New York
+2025-06-04 08:00:00,solar,95.183,Los Angeles
+2025-06-04 08:00:00,wind,118.049,Los Angeles
+2025-06-04 08:00:00,solar,64.802,Chicago
+2025-06-04 08:00:00,wind,217.69,Chicago
+2025-06-04 08:00:00,solar,82.062,Houston
+2025-06-04 08:00:00,wind,206.476,Houston
+2025-06-04 08:00:00,solar,115.936,Phoenix
+2025-06-04 08:00:00,wind,111.447,Phoenix
+2025-06-04 09:00:00,solar,147.501,New York
+2025-06-04 09:00:00,wind,271.197,New York
+2025-06-04 09:00:00,solar,161.918,Los Angeles
+2025-06-04 09:00:00,wind,99.731,Los Angeles
+2025-06-04 09:00:00,solar,105.424,Chicago
+2025-06-04 09:00:00,wind,364.662,Chicago
+2025-06-04 09:00:00,solar,144.743,Houston
+2025-06-04 09:00:00,wind,199.412,Houston
+2025-06-04 09:00:00,solar,185.754,Phoenix
+2025-06-04 09:00:00,wind,108.915,Phoenix
+2025-06-04 10:00:00,solar,144.859,New York
+2025-06-04 10:00:00,wind,152.737,New York
+2025-06-04 10:00:00,solar,179.614,Los Angeles
+2025-06-04 10:00:00,wind,106.19,Los Angeles
+2025-06-04 10:00:00,solar,155.929,Chicago
+2025-06-04 10:00:00,wind,327.201,Chicago
+2025-06-04 10:00:00,solar,189.058,Houston
+2025-06-04 10:00:00,wind,218.08,Houston
+2025-06-04 10:00:00,solar,176.974,Phoenix
+2025-06-04 10:00:00,wind,85.178,Phoenix
+2025-06-04 11:00:00,solar,150.471,New York
+2025-06-04 11:00:00,wind,287.036,New York
+2025-06-04 11:00:00,solar,203.265,Los Angeles
+2025-06-04 11:00:00,wind,165.618,Los Angeles
+2025-06-04 11:00:00,solar,153.232,Chicago
+2025-06-04 11:00:00,wind,293.717,Chicago
+2025-06-04 11:00:00,solar,172.915,Houston
+2025-06-04 11:00:00,wind,254.883,Houston
+2025-06-04 11:00:00,solar,202.613,Phoenix
+2025-06-04 11:00:00,wind,26.697,Phoenix
+2025-06-04 12:00:00,solar,173.896,New York
+2025-06-04 12:00:00,wind,242.217,New York
+2025-06-04 12:00:00,solar,177.542,Los Angeles
+2025-06-04 12:00:00,wind,225.834,Los Angeles
+2025-06-04 12:00:00,solar,144.933,Chicago
+2025-06-04 12:00:00,wind,385.323,Chicago
+2025-06-04 12:00:00,solar,138.952,Houston
+2025-06-04 12:00:00,wind,172.941,Houston
+2025-06-04 12:00:00,solar,202.593,Phoenix
+2025-06-04 12:00:00,wind,133.85,Phoenix
+2025-06-04 13:00:00,solar,181.709,New York
+2025-06-04 13:00:00,wind,305.442,New York
+2025-06-04 13:00:00,solar,189.468,Los Angeles
+2025-06-04 13:00:00,wind,214.009,Los Angeles
+2025-06-04 13:00:00,solar,141.574,Chicago
+2025-06-04 13:00:00,wind,352.873,Chicago
+2025-06-04 13:00:00,solar,192.677,Houston
+2025-06-04 13:00:00,wind,131.553,Houston
+2025-06-04 13:00:00,solar,180.983,Phoenix
+2025-06-04 13:00:00,wind,115.906,Phoenix
+2025-06-04 14:00:00,solar,145.533,New York
+2025-06-04 14:00:00,wind,238.547,New York
+2025-06-04 14:00:00,solar,156.736,Los Angeles
+2025-06-04 14:00:00,wind,201.269,Los Angeles
+2025-06-04 14:00:00,solar,176.646,Chicago
+2025-06-04 14:00:00,wind,339.673,Chicago
+2025-06-04 14:00:00,solar,139.501,Houston
+2025-06-04 14:00:00,wind,182.111,Houston
+2025-06-04 14:00:00,solar,160.108,Phoenix
+2025-06-04 14:00:00,wind,66.318,Phoenix
+2025-06-04 15:00:00,solar,111.069,New York
+2025-06-04 15:00:00,wind,204.1,New York
+2025-06-04 15:00:00,solar,128.656,Los Angeles
+2025-06-04 15:00:00,wind,147.223,Los Angeles
+2025-06-04 15:00:00,solar,132.556,Chicago
+2025-06-04 15:00:00,wind,324.955,Chicago
+2025-06-04 15:00:00,solar,135.497,Houston
+2025-06-04 15:00:00,wind,143.908,Houston
+2025-06-04 15:00:00,solar,149.362,Phoenix
+2025-06-04 15:00:00,wind,134.85,Phoenix
+2025-06-04 16:00:00,solar,89.931,New York
+2025-06-04 16:00:00,wind,325.312,New York
+2025-06-04 16:00:00,solar,105.88,Los Angeles
+2025-06-04 16:00:00,wind,196.995,Los Angeles
+2025-06-04 16:00:00,solar,81.915,Chicago
+2025-06-04 16:00:00,wind,348.419,Chicago
+2025-06-04 16:00:00,solar,102.686,Houston
+2025-06-04 16:00:00,wind,193.695,Houston
+2025-06-04 16:00:00,solar,158.67,Phoenix
+2025-06-04 16:00:00,wind,136.258,Phoenix
+2025-06-04 17:00:00,solar,57.055,New York
+2025-06-04 17:00:00,wind,159.498,New York
+2025-06-04 17:00:00,solar,54.368,Los Angeles
+2025-06-04 17:00:00,wind,145.231,Los Angeles
+2025-06-04 17:00:00,solar,38.939,Chicago
+2025-06-04 17:00:00,wind,345.773,Chicago
+2025-06-04 17:00:00,solar,39.39,Houston
+2025-06-04 17:00:00,wind,288.649,Houston
+2025-06-04 17:00:00,solar,73.061,Phoenix
+2025-06-04 17:00:00,wind,134.46,Phoenix
+2025-06-04 18:00:00,solar,0.0,New York
+2025-06-04 18:00:00,wind,203.254,New York
+2025-06-04 18:00:00,solar,0.0,Los Angeles
+2025-06-04 18:00:00,wind,251.487,Los Angeles
+2025-06-04 18:00:00,solar,6.293,Chicago
+2025-06-04 18:00:00,wind,286.769,Chicago
+2025-06-04 18:00:00,solar,0.0,Houston
+2025-06-04 18:00:00,wind,214.231,Houston
+2025-06-04 18:00:00,solar,3.544,Phoenix
+2025-06-04 18:00:00,wind,134.963,Phoenix
+2025-06-04 19:00:00,solar,0.0,New York
+2025-06-04 19:00:00,wind,283.649,New York
+2025-06-04 19:00:00,solar,0.0,Los Angeles
+2025-06-04 19:00:00,wind,256.351,Los Angeles
+2025-06-04 19:00:00,solar,0.0,Chicago
+2025-06-04 19:00:00,wind,328.506,Chicago
+2025-06-04 19:00:00,solar,0.0,Houston
+2025-06-04 19:00:00,wind,150.721,Houston
+2025-06-04 19:00:00,solar,0.0,Phoenix
+2025-06-04 19:00:00,wind,153.325,Phoenix
+2025-06-04 20:00:00,solar,0.0,New York
+2025-06-04 20:00:00,wind,292.046,New York
+2025-06-04 20:00:00,solar,0.0,Los Angeles
+2025-06-04 20:00:00,wind,96.029,Los Angeles
+2025-06-04 20:00:00,solar,0.0,Chicago
+2025-06-04 20:00:00,wind,285.72,Chicago
+2025-06-04 20:00:00,solar,0.0,Houston
+2025-06-04 20:00:00,wind,172.523,Houston
+2025-06-04 20:00:00,solar,0.0,Phoenix
+2025-06-04 20:00:00,wind,49.496,Phoenix
+2025-06-04 21:00:00,solar,0.0,New York
+2025-06-04 21:00:00,wind,258.059,New York
+2025-06-04 21:00:00,solar,0.0,Los Angeles
+2025-06-04 21:00:00,wind,189.85,Los Angeles
+2025-06-04 21:00:00,solar,0.0,Chicago
+2025-06-04 21:00:00,wind,275.12,Chicago
+2025-06-04 21:00:00,solar,0.0,Houston
+2025-06-04 21:00:00,wind,252.332,Houston
+2025-06-04 21:00:00,solar,0.0,Phoenix
+2025-06-04 21:00:00,wind,61.904,Phoenix
+2025-06-04 22:00:00,solar,0.0,New York
+2025-06-04 22:00:00,wind,225.392,New York
+2025-06-04 22:00:00,solar,0.0,Los Angeles
+2025-06-04 22:00:00,wind,168.37,Los Angeles
+2025-06-04 22:00:00,solar,0.0,Chicago
+2025-06-04 22:00:00,wind,331.24,Chicago
+2025-06-04 22:00:00,solar,0.0,Houston
+2025-06-04 22:00:00,wind,256.782,Houston
+2025-06-04 22:00:00,solar,0.0,Phoenix
+2025-06-04 22:00:00,wind,49.992,Phoenix
+2025-06-04 23:00:00,solar,0.0,New York
+2025-06-04 23:00:00,wind,270.712,New York
+2025-06-04 23:00:00,solar,0.0,Los Angeles
+2025-06-04 23:00:00,wind,214.377,Los Angeles
+2025-06-04 23:00:00,solar,0.0,Chicago
+2025-06-04 23:00:00,wind,352.432,Chicago
+2025-06-04 23:00:00,solar,0.0,Houston
+2025-06-04 23:00:00,wind,182.003,Houston
+2025-06-04 23:00:00,solar,0.0,Phoenix
+2025-06-04 23:00:00,wind,93.942,Phoenix
+2025-06-05 00:00:00,solar,0.0,New York
+2025-06-05 00:00:00,wind,230.347,New York
+2025-06-05 00:00:00,solar,0.0,Los Angeles
+2025-06-05 00:00:00,wind,168.756,Los Angeles
+2025-06-05 00:00:00,solar,0.0,Chicago
+2025-06-05 00:00:00,wind,269.917,Chicago
+2025-06-05 00:00:00,solar,0.0,Houston
+2025-06-05 00:00:00,wind,203.45,Houston
+2025-06-05 00:00:00,solar,0.0,Phoenix
+2025-06-05 00:00:00,wind,0.0,Phoenix
+2025-06-05 01:00:00,solar,0.0,New York
+2025-06-05 01:00:00,wind,209.155,New York
+2025-06-05 01:00:00,solar,0.0,Los Angeles
+2025-06-05 01:00:00,wind,156.098,Los Angeles
+2025-06-05 01:00:00,solar,0.0,Chicago
+2025-06-05 01:00:00,wind,308.648,Chicago
+2025-06-05 01:00:00,solar,0.0,Houston
+2025-06-05 01:00:00,wind,236.831,Houston
+2025-06-05 01:00:00,solar,0.0,Phoenix
+2025-06-05 01:00:00,wind,166.437,Phoenix
+2025-06-05 02:00:00,solar,0.0,New York
+2025-06-05 02:00:00,wind,238.841,New York
+2025-06-05 02:00:00,solar,0.0,Los Angeles
+2025-06-05 02:00:00,wind,231.458,Los Angeles
+2025-06-05 02:00:00,solar,0.0,Chicago
+2025-06-05 02:00:00,wind,291.95,Chicago
+2025-06-05 02:00:00,solar,0.0,Houston
+2025-06-05 02:00:00,wind,288.174,Houston
+2025-06-05 02:00:00,solar,0.0,Phoenix
+2025-06-05 02:00:00,wind,94.929,Phoenix
+2025-06-05 03:00:00,solar,0.0,New York
+2025-06-05 03:00:00,wind,306.969,New York
+2025-06-05 03:00:00,solar,0.0,Los Angeles
+2025-06-05 03:00:00,wind,156.151,Los Angeles
+2025-06-05 03:00:00,solar,0.0,Chicago
+2025-06-05 03:00:00,wind,269.173,Chicago
+2025-06-05 03:00:00,solar,0.0,Houston
+2025-06-05 03:00:00,wind,160.379,Houston
+2025-06-05 03:00:00,solar,0.0,Phoenix
+2025-06-05 03:00:00,wind,57.456,Phoenix
+2025-06-05 04:00:00,solar,0.0,New York
+2025-06-05 04:00:00,wind,303.976,New York
+2025-06-05 04:00:00,solar,0.0,Los Angeles
+2025-06-05 04:00:00,wind,214.591,Los Angeles
+2025-06-05 04:00:00,solar,0.0,Chicago
+2025-06-05 04:00:00,wind,201.057,Chicago
+2025-06-05 04:00:00,solar,0.0,Houston
+2025-06-05 04:00:00,wind,139.746,Houston
+2025-06-05 04:00:00,solar,0.0,Phoenix
+2025-06-05 04:00:00,wind,74.851,Phoenix
+2025-06-05 05:00:00,solar,0.0,New York
+2025-06-05 05:00:00,wind,186.611,New York
+2025-06-05 05:00:00,solar,0.0,Los Angeles
+2025-06-05 05:00:00,wind,248.372,Los Angeles
+2025-06-05 05:00:00,solar,0.0,Chicago
+2025-06-05 05:00:00,wind,292.986,Chicago
+2025-06-05 05:00:00,solar,0.0,Houston
+2025-06-05 05:00:00,wind,221.687,Houston
+2025-06-05 05:00:00,solar,0.0,Phoenix
+2025-06-05 05:00:00,wind,130.612,Phoenix
+2025-06-05 06:00:00,solar,12.906,New York
+2025-06-05 06:00:00,wind,204.441,New York
+2025-06-05 06:00:00,solar,12.305,Los Angeles
+2025-06-05 06:00:00,wind,134.209,Los Angeles
+2025-06-05 06:00:00,solar,0.0,Chicago
+2025-06-05 06:00:00,wind,250.145,Chicago
+2025-06-05 06:00:00,solar,0.0,Houston
+2025-06-05 06:00:00,wind,217.923,Houston
+2025-06-05 06:00:00,solar,4.518,Phoenix
+2025-06-05 06:00:00,wind,28.126,Phoenix
+2025-06-05 07:00:00,solar,48.445,New York
+2025-06-05 07:00:00,wind,316.4,New York
+2025-06-05 07:00:00,solar,31.462,Los Angeles
+2025-06-05 07:00:00,wind,122.713,Los Angeles
+2025-06-05 07:00:00,solar,67.622,Chicago
+2025-06-05 07:00:00,wind,237.901,Chicago
+2025-06-05 07:00:00,solar,61.66,Houston
+2025-06-05 07:00:00,wind,245.187,Houston
+2025-06-05 07:00:00,solar,88.896,Phoenix
+2025-06-05 07:00:00,wind,169.83,Phoenix
+2025-06-05 08:00:00,solar,89.127,New York
+2025-06-05 08:00:00,wind,337.409,New York
+2025-06-05 08:00:00,solar,100.465,Los Angeles
+2025-06-05 08:00:00,wind,227.896,Los Angeles
+2025-06-05 08:00:00,solar,71.842,Chicago
+2025-06-05 08:00:00,wind,187.152,Chicago
+2025-06-05 08:00:00,solar,111.761,Houston
+2025-06-05 08:00:00,wind,231.879,Houston
+2025-06-05 08:00:00,solar,124.835,Phoenix
+2025-06-05 08:00:00,wind,62.832,Phoenix
+2025-06-05 09:00:00,solar,161.067,New York
+2025-06-05 09:00:00,wind,275.776,New York
+2025-06-05 09:00:00,solar,135.843,Los Angeles
+2025-06-05 09:00:00,wind,129.833,Los Angeles
+2025-06-05 09:00:00,solar,122.911,Chicago
+2025-06-05 09:00:00,wind,294.498,Chicago
+2025-06-05 09:00:00,solar,105.849,Houston
+2025-06-05 09:00:00,wind,252.632,Houston
+2025-06-05 09:00:00,solar,132.062,Phoenix
+2025-06-05 09:00:00,wind,76.366,Phoenix
+2025-06-05 10:00:00,solar,179.992,New York
+2025-06-05 10:00:00,wind,263.092,New York
+2025-06-05 10:00:00,solar,170.465,Los Angeles
+2025-06-05 10:00:00,wind,181.924,Los Angeles
+2025-06-05 10:00:00,solar,125.223,Chicago
+2025-06-05 10:00:00,wind,277.861,Chicago
+2025-06-05 10:00:00,solar,173.19,Houston
+2025-06-05 10:00:00,wind,249.017,Houston
+2025-06-05 10:00:00,solar,182.259,Phoenix
+2025-06-05 10:00:00,wind,96.108,Phoenix
+2025-06-05 11:00:00,solar,177.25,New York
+2025-06-05 11:00:00,wind,255.639,New York
+2025-06-05 11:00:00,solar,191.485,Los Angeles
+2025-06-05 11:00:00,wind,183.899,Los Angeles
+2025-06-05 11:00:00,solar,138.181,Chicago
+2025-06-05 11:00:00,wind,325.319,Chicago
+2025-06-05 11:00:00,solar,187.35,Houston
+2025-06-05 11:00:00,wind,147.592,Houston
+2025-06-05 11:00:00,solar,203.989,Phoenix
+2025-06-05 11:00:00,wind,134.962,Phoenix
+2025-06-05 12:00:00,solar,166.53,New York
+2025-06-05 12:00:00,wind,178.272,New York
+2025-06-05 12:00:00,solar,174.836,Los Angeles
+2025-06-05 12:00:00,wind,107.789,Los Angeles
+2025-06-05 12:00:00,solar,178.374,Chicago
+2025-06-05 12:00:00,wind,338.757,Chicago
+2025-06-05 12:00:00,solar,161.931,Houston
+2025-06-05 12:00:00,wind,242.93,Houston
+2025-06-05 12:00:00,solar,194.214,Phoenix
+2025-06-05 12:00:00,wind,51.183,Phoenix
+2025-06-05 13:00:00,solar,186.495,New York
+2025-06-05 13:00:00,wind,360.289,New York
+2025-06-05 13:00:00,solar,177.066,Los Angeles
+2025-06-05 13:00:00,wind,220.427,Los Angeles
+2025-06-05 13:00:00,solar,124.594,Chicago
+2025-06-05 13:00:00,wind,252.095,Chicago
+2025-06-05 13:00:00,solar,162.389,Houston
+2025-06-05 13:00:00,wind,132.784,Houston
+2025-06-05 13:00:00,solar,195.824,Phoenix
+2025-06-05 13:00:00,wind,87.339,Phoenix
+2025-06-05 14:00:00,solar,132.225,New York
+2025-06-05 14:00:00,wind,346.648,New York
+2025-06-05 14:00:00,solar,145.922,Los Angeles
+2025-06-05 14:00:00,wind,214.834,Los Angeles
+2025-06-05 14:00:00,solar,163.098,Chicago
+2025-06-05 14:00:00,wind,272.144,Chicago
+2025-06-05 14:00:00,solar,174.092,Houston
+2025-06-05 14:00:00,wind,168.064,Houston
+2025-06-05 14:00:00,solar,182.491,Phoenix
+2025-06-05 14:00:00,wind,45.582,Phoenix
+2025-06-05 15:00:00,solar,137.274,New York
+2025-06-05 15:00:00,wind,249.912,New York
+2025-06-05 15:00:00,solar,134.248,Los Angeles
+2025-06-05 15:00:00,wind,163.366,Los Angeles
+2025-06-05 15:00:00,solar,127.803,Chicago
+2025-06-05 15:00:00,wind,251.866,Chicago
+2025-06-05 15:00:00,solar,137.171,Houston
+2025-06-05 15:00:00,wind,186.356,Houston
+2025-06-05 15:00:00,solar,144.9,Phoenix
+2025-06-05 15:00:00,wind,58.029,Phoenix
+2025-06-05 16:00:00,solar,105.061,New York
+2025-06-05 16:00:00,wind,239.067,New York
+2025-06-05 16:00:00,solar,107.986,Los Angeles
+2025-06-05 16:00:00,wind,238.901,Los Angeles
+2025-06-05 16:00:00,solar,97.486,Chicago
+2025-06-05 16:00:00,wind,382.966,Chicago
+2025-06-05 16:00:00,solar,102.273,Houston
+2025-06-05 16:00:00,wind,295.494,Houston
+2025-06-05 16:00:00,solar,113.332,Phoenix
+2025-06-05 16:00:00,wind,6.004,Phoenix
+2025-06-05 17:00:00,solar,60.081,New York
+2025-06-05 17:00:00,wind,319.175,New York
+2025-06-05 17:00:00,solar,55.724,Los Angeles
+2025-06-05 17:00:00,wind,192.236,Los Angeles
+2025-06-05 17:00:00,solar,52.771,Chicago
+2025-06-05 17:00:00,wind,381.778,Chicago
+2025-06-05 17:00:00,solar,47.554,Houston
+2025-06-05 17:00:00,wind,251.46,Houston
+2025-06-05 17:00:00,solar,72.977,Phoenix
+2025-06-05 17:00:00,wind,63.511,Phoenix
+2025-06-05 18:00:00,solar,0.0,New York
+2025-06-05 18:00:00,wind,251.403,New York
+2025-06-05 18:00:00,solar,4.322,Los Angeles
+2025-06-05 18:00:00,wind,120.818,Los Angeles
+2025-06-05 18:00:00,solar,0.0,Chicago
+2025-06-05 18:00:00,wind,319.401,Chicago
+2025-06-05 18:00:00,solar,12.534,Houston
+2025-06-05 18:00:00,wind,160.414,Houston
+2025-06-05 18:00:00,solar,0.0,Phoenix
+2025-06-05 18:00:00,wind,186.055,Phoenix
+2025-06-05 19:00:00,solar,0.0,New York
+2025-06-05 19:00:00,wind,186.252,New York
+2025-06-05 19:00:00,solar,0.0,Los Angeles
+2025-06-05 19:00:00,wind,136.659,Los Angeles
+2025-06-05 19:00:00,solar,0.0,Chicago
+2025-06-05 19:00:00,wind,304.158,Chicago
+2025-06-05 19:00:00,solar,0.0,Houston
+2025-06-05 19:00:00,wind,246.344,Houston
+2025-06-05 19:00:00,solar,0.0,Phoenix
+2025-06-05 19:00:00,wind,95.604,Phoenix
+2025-06-05 20:00:00,solar,0.0,New York
+2025-06-05 20:00:00,wind,322.098,New York
+2025-06-05 20:00:00,solar,0.0,Los Angeles
+2025-06-05 20:00:00,wind,138.625,Los Angeles
+2025-06-05 20:00:00,solar,0.0,Chicago
+2025-06-05 20:00:00,wind,271.804,Chicago
+2025-06-05 20:00:00,solar,0.0,Houston
+2025-06-05 20:00:00,wind,189.676,Houston
+2025-06-05 20:00:00,solar,0.0,Phoenix
+2025-06-05 20:00:00,wind,95.252,Phoenix
+2025-06-05 21:00:00,solar,0.0,New York
+2025-06-05 21:00:00,wind,261.59,New York
+2025-06-05 21:00:00,solar,0.0,Los Angeles
+2025-06-05 21:00:00,wind,184.247,Los Angeles
+2025-06-05 21:00:00,solar,0.0,Chicago
+2025-06-05 21:00:00,wind,230.9,Chicago
+2025-06-05 21:00:00,solar,0.0,Houston
+2025-06-05 21:00:00,wind,188.141,Houston
+2025-06-05 21:00:00,solar,0.0,Phoenix
+2025-06-05 21:00:00,wind,25.36,Phoenix
+2025-06-05 22:00:00,solar,0.0,New York
+2025-06-05 22:00:00,wind,187.89,New York
+2025-06-05 22:00:00,solar,0.0,Los Angeles
+2025-06-05 22:00:00,wind,182.041,Los Angeles
+2025-06-05 22:00:00,solar,0.0,Chicago
+2025-06-05 22:00:00,wind,343.633,Chicago
+2025-06-05 22:00:00,solar,0.0,Houston
+2025-06-05 22:00:00,wind,236.028,Houston
+2025-06-05 22:00:00,solar,0.0,Phoenix
+2025-06-05 22:00:00,wind,21.999,Phoenix
+2025-06-05 23:00:00,solar,0.0,New York
+2025-06-05 23:00:00,wind,304.718,New York
+2025-06-05 23:00:00,solar,0.0,Los Angeles
+2025-06-05 23:00:00,wind,236.24,Los Angeles
+2025-06-05 23:00:00,solar,0.0,Chicago
+2025-06-05 23:00:00,wind,290.136,Chicago
+2025-06-05 23:00:00,solar,0.0,Houston
+2025-06-05 23:00:00,wind,201.071,Houston
+2025-06-05 23:00:00,solar,0.0,Phoenix
+2025-06-05 23:00:00,wind,159.203,Phoenix
+2025-06-06 00:00:00,solar,0.0,New York
+2025-06-06 00:00:00,wind,335.071,New York
+2025-06-06 00:00:00,solar,0.0,Los Angeles
+2025-06-06 00:00:00,wind,222.243,Los Angeles
+2025-06-06 00:00:00,solar,0.0,Chicago
+2025-06-06 00:00:00,wind,258.114,Chicago
+2025-06-06 00:00:00,solar,0.0,Houston
+2025-06-06 00:00:00,wind,215.724,Houston
+2025-06-06 00:00:00,solar,0.0,Phoenix
+2025-06-06 00:00:00,wind,116.692,Phoenix
+2025-06-06 01:00:00,solar,0.0,New York
+2025-06-06 01:00:00,wind,275.491,New York
+2025-06-06 01:00:00,solar,0.0,Los Angeles
+2025-06-06 01:00:00,wind,120.314,Los Angeles
+2025-06-06 01:00:00,solar,0.0,Chicago
+2025-06-06 01:00:00,wind,301.201,Chicago
+2025-06-06 01:00:00,solar,0.0,Houston
+2025-06-06 01:00:00,wind,162.278,Houston
+2025-06-06 01:00:00,solar,0.0,Phoenix
+2025-06-06 01:00:00,wind,124.97,Phoenix
+2025-06-06 02:00:00,solar,0.0,New York
+2025-06-06 02:00:00,wind,194.741,New York
+2025-06-06 02:00:00,solar,0.0,Los Angeles
+2025-06-06 02:00:00,wind,173.835,Los Angeles
+2025-06-06 02:00:00,solar,0.0,Chicago
+2025-06-06 02:00:00,wind,266.913,Chicago
+2025-06-06 02:00:00,solar,0.0,Houston
+2025-06-06 02:00:00,wind,217.165,Houston
+2025-06-06 02:00:00,solar,0.0,Phoenix
+2025-06-06 02:00:00,wind,129.618,Phoenix
+2025-06-06 03:00:00,solar,0.0,New York
+2025-06-06 03:00:00,wind,207.607,New York
+2025-06-06 03:00:00,solar,0.0,Los Angeles
+2025-06-06 03:00:00,wind,159.365,Los Angeles
+2025-06-06 03:00:00,solar,0.0,Chicago
+2025-06-06 03:00:00,wind,281.254,Chicago
+2025-06-06 03:00:00,solar,0.0,Houston
+2025-06-06 03:00:00,wind,233.301,Houston
+2025-06-06 03:00:00,solar,0.0,Phoenix
+2025-06-06 03:00:00,wind,141.103,Phoenix
+2025-06-06 04:00:00,solar,0.0,New York
+2025-06-06 04:00:00,wind,203.697,New York
+2025-06-06 04:00:00,solar,0.0,Los Angeles
+2025-06-06 04:00:00,wind,118.407,Los Angeles
+2025-06-06 04:00:00,solar,0.0,Chicago
+2025-06-06 04:00:00,wind,230.901,Chicago
+2025-06-06 04:00:00,solar,0.0,Houston
+2025-06-06 04:00:00,wind,256.39,Houston
+2025-06-06 04:00:00,solar,0.0,Phoenix
+2025-06-06 04:00:00,wind,140.487,Phoenix
+2025-06-06 05:00:00,solar,0.0,New York
+2025-06-06 05:00:00,wind,252.938,New York
+2025-06-06 05:00:00,solar,0.0,Los Angeles
+2025-06-06 05:00:00,wind,249.524,Los Angeles
+2025-06-06 05:00:00,solar,0.0,Chicago
+2025-06-06 05:00:00,wind,275.632,Chicago
+2025-06-06 05:00:00,solar,0.0,Houston
+2025-06-06 05:00:00,wind,189.0,Houston
+2025-06-06 05:00:00,solar,0.0,Phoenix
+2025-06-06 05:00:00,wind,136.97,Phoenix
+2025-06-06 06:00:00,solar,0.0,New York
+2025-06-06 06:00:00,wind,200.013,New York
+2025-06-06 06:00:00,solar,0.0,Los Angeles
+2025-06-06 06:00:00,wind,281.794,Los Angeles
+2025-06-06 06:00:00,solar,17.286,Chicago
+2025-06-06 06:00:00,wind,273.218,Chicago
+2025-06-06 06:00:00,solar,0.0,Houston
+2025-06-06 06:00:00,wind,216.004,Houston
+2025-06-06 06:00:00,solar,0.0,Phoenix
+2025-06-06 06:00:00,wind,120.757,Phoenix
+2025-06-06 07:00:00,solar,29.652,New York
+2025-06-06 07:00:00,wind,261.326,New York
+2025-06-06 07:00:00,solar,71.483,Los Angeles
+2025-06-06 07:00:00,wind,129.965,Los Angeles
+2025-06-06 07:00:00,solar,39.558,Chicago
+2025-06-06 07:00:00,wind,352.154,Chicago
+2025-06-06 07:00:00,solar,65.409,Houston
+2025-06-06 07:00:00,wind,264.888,Houston
+2025-06-06 07:00:00,solar,75.71,Phoenix
+2025-06-06 07:00:00,wind,96.258,Phoenix
+2025-06-06 08:00:00,solar,104.562,New York
+2025-06-06 08:00:00,wind,247.229,New York
+2025-06-06 08:00:00,solar,104.466,Los Angeles
+2025-06-06 08:00:00,wind,250.565,Los Angeles
+2025-06-06 08:00:00,solar,106.874,Chicago
+2025-06-06 08:00:00,wind,217.721,Chicago
+2025-06-06 08:00:00,solar,102.004,Houston
+2025-06-06 08:00:00,wind,196.821,Houston
+2025-06-06 08:00:00,solar,106.31,Phoenix
+2025-06-06 08:00:00,wind,46.207,Phoenix
+2025-06-06 09:00:00,solar,124.787,New York
+2025-06-06 09:00:00,wind,312.826,New York
+2025-06-06 09:00:00,solar,150.96,Los Angeles
+2025-06-06 09:00:00,wind,214.221,Los Angeles
+2025-06-06 09:00:00,solar,131.867,Chicago
+2025-06-06 09:00:00,wind,333.007,Chicago
+2025-06-06 09:00:00,solar,136.513,Houston
+2025-06-06 09:00:00,wind,227.34,Houston
+2025-06-06 09:00:00,solar,187.999,Phoenix
+2025-06-06 09:00:00,wind,171.735,Phoenix
+2025-06-06 10:00:00,solar,134.971,New York
+2025-06-06 10:00:00,wind,243.274,New York
+2025-06-06 10:00:00,solar,155.376,Los Angeles
+2025-06-06 10:00:00,wind,210.256,Los Angeles
+2025-06-06 10:00:00,solar,121.267,Chicago
+2025-06-06 10:00:00,wind,412.964,Chicago
+2025-06-06 10:00:00,solar,181.509,Houston
+2025-06-06 10:00:00,wind,240.741,Houston
+2025-06-06 10:00:00,solar,216.886,Phoenix
+2025-06-06 10:00:00,wind,95.7,Phoenix
+2025-06-06 11:00:00,solar,181.777,New York
+2025-06-06 11:00:00,wind,263.227,New York
+2025-06-06 11:00:00,solar,164.89,Los Angeles
+2025-06-06 11:00:00,wind,160.05,Los Angeles
+2025-06-06 11:00:00,solar,165.319,Chicago
+2025-06-06 11:00:00,wind,324.744,Chicago
+2025-06-06 11:00:00,solar,201.463,Houston
+2025-06-06 11:00:00,wind,207.003,Houston
+2025-06-06 11:00:00,solar,219.171,Phoenix
+2025-06-06 11:00:00,wind,117.038,Phoenix
+2025-06-06 12:00:00,solar,160.419,New York
+2025-06-06 12:00:00,wind,289.008,New York
+2025-06-06 12:00:00,solar,166.511,Los Angeles
+2025-06-06 12:00:00,wind,253.243,Los Angeles
+2025-06-06 12:00:00,solar,129.157,Chicago
+2025-06-06 12:00:00,wind,315.919,Chicago
+2025-06-06 12:00:00,solar,173.181,Houston
+2025-06-06 12:00:00,wind,172.218,Houston
+2025-06-06 12:00:00,solar,206.299,Phoenix
+2025-06-06 12:00:00,wind,136.368,Phoenix
+2025-06-06 13:00:00,solar,174.829,New York
+2025-06-06 13:00:00,wind,147.014,New York
+2025-06-06 13:00:00,solar,197.838,Los Angeles
+2025-06-06 13:00:00,wind,33.469,Los Angeles
+2025-06-06 13:00:00,solar,145.518,Chicago
+2025-06-06 13:00:00,wind,363.764,Chicago
+2025-06-06 13:00:00,solar,207.258,Houston
+2025-06-06 13:00:00,wind,140.409,Houston
+2025-06-06 13:00:00,solar,223.127,Phoenix
+2025-06-06 13:00:00,wind,58.112,Phoenix
+2025-06-06 14:00:00,solar,142.516,New York
+2025-06-06 14:00:00,wind,227.548,New York
+2025-06-06 14:00:00,solar,191.732,Los Angeles
+2025-06-06 14:00:00,wind,225.266,Los Angeles
+2025-06-06 14:00:00,solar,124.148,Chicago
+2025-06-06 14:00:00,wind,221.43,Chicago
+2025-06-06 14:00:00,solar,209.07,Houston
+2025-06-06 14:00:00,wind,142.646,Houston
+2025-06-06 14:00:00,solar,209.525,Phoenix
+2025-06-06 14:00:00,wind,164.655,Phoenix
+2025-06-06 15:00:00,solar,125.697,New York
+2025-06-06 15:00:00,wind,242.214,New York
+2025-06-06 15:00:00,solar,166.029,Los Angeles
+2025-06-06 15:00:00,wind,195.033,Los Angeles
+2025-06-06 15:00:00,solar,104.557,Chicago
+2025-06-06 15:00:00,wind,390.318,Chicago
+2025-06-06 15:00:00,solar,124.241,Houston
+2025-06-06 15:00:00,wind,193.619,Houston
+2025-06-06 15:00:00,solar,155.18,Phoenix
+2025-06-06 15:00:00,wind,90.788,Phoenix
+2025-06-06 16:00:00,solar,123.46,New York
+2025-06-06 16:00:00,wind,266.0,New York
+2025-06-06 16:00:00,solar,129.578,Los Angeles
+2025-06-06 16:00:00,wind,229.841,Los Angeles
+2025-06-06 16:00:00,solar,92.684,Chicago
+2025-06-06 16:00:00,wind,294.208,Chicago
+2025-06-06 16:00:00,solar,99.072,Houston
+2025-06-06 16:00:00,wind,249.057,Houston
+2025-06-06 16:00:00,solar,143.758,Phoenix
+2025-06-06 16:00:00,wind,103.712,Phoenix
+2025-06-06 17:00:00,solar,50.055,New York
+2025-06-06 17:00:00,wind,127.783,New York
+2025-06-06 17:00:00,solar,64.244,Los Angeles
+2025-06-06 17:00:00,wind,126.544,Los Angeles
+2025-06-06 17:00:00,solar,58.846,Chicago
+2025-06-06 17:00:00,wind,278.099,Chicago
+2025-06-06 17:00:00,solar,49.323,Houston
+2025-06-06 17:00:00,wind,110.352,Houston
+2025-06-06 17:00:00,solar,59.839,Phoenix
+2025-06-06 17:00:00,wind,123.381,Phoenix
+2025-06-06 18:00:00,solar,2.459,New York
+2025-06-06 18:00:00,wind,216.098,New York
+2025-06-06 18:00:00,solar,2.533,Los Angeles
+2025-06-06 18:00:00,wind,145.33,Los Angeles
+2025-06-06 18:00:00,solar,0.061,Chicago
+2025-06-06 18:00:00,wind,279.55,Chicago
+2025-06-06 18:00:00,solar,11.572,Houston
+2025-06-06 18:00:00,wind,123.529,Houston
+2025-06-06 18:00:00,solar,0.0,Phoenix
+2025-06-06 18:00:00,wind,127.337,Phoenix
+2025-06-06 19:00:00,solar,0.0,New York
+2025-06-06 19:00:00,wind,312.477,New York
+2025-06-06 19:00:00,solar,0.0,Los Angeles
+2025-06-06 19:00:00,wind,195.473,Los Angeles
+2025-06-06 19:00:00,solar,0.0,Chicago
+2025-06-06 19:00:00,wind,356.07,Chicago
+2025-06-06 19:00:00,solar,0.0,Houston
+2025-06-06 19:00:00,wind,110.834,Houston
+2025-06-06 19:00:00,solar,0.0,Phoenix
+2025-06-06 19:00:00,wind,134.057,Phoenix
+2025-06-06 20:00:00,solar,0.0,New York
+2025-06-06 20:00:00,wind,282.14,New York
+2025-06-06 20:00:00,solar,0.0,Los Angeles
+2025-06-06 20:00:00,wind,209.496,Los Angeles
+2025-06-06 20:00:00,solar,0.0,Chicago
+2025-06-06 20:00:00,wind,325.515,Chicago
+2025-06-06 20:00:00,solar,0.0,Houston
+2025-06-06 20:00:00,wind,216.076,Houston
+2025-06-06 20:00:00,solar,0.0,Phoenix
+2025-06-06 20:00:00,wind,198.936,Phoenix
+2025-06-06 21:00:00,solar,0.0,New York
+2025-06-06 21:00:00,wind,180.491,New York
+2025-06-06 21:00:00,solar,0.0,Los Angeles
+2025-06-06 21:00:00,wind,266.276,Los Angeles
+2025-06-06 21:00:00,solar,0.0,Chicago
+2025-06-06 21:00:00,wind,336.287,Chicago
+2025-06-06 21:00:00,solar,0.0,Houston
+2025-06-06 21:00:00,wind,200.534,Houston
+2025-06-06 21:00:00,solar,0.0,Phoenix
+2025-06-06 21:00:00,wind,121.131,Phoenix
+2025-06-06 22:00:00,solar,0.0,New York
+2025-06-06 22:00:00,wind,172.551,New York
+2025-06-06 22:00:00,solar,0.0,Los Angeles
+2025-06-06 22:00:00,wind,155.606,Los Angeles
+2025-06-06 22:00:00,solar,0.0,Chicago
+2025-06-06 22:00:00,wind,322.308,Chicago
+2025-06-06 22:00:00,solar,0.0,Houston
+2025-06-06 22:00:00,wind,258.547,Houston
+2025-06-06 22:00:00,solar,0.0,Phoenix
+2025-06-06 22:00:00,wind,99.311,Phoenix
+2025-06-06 23:00:00,solar,0.0,New York
+2025-06-06 23:00:00,wind,210.883,New York
+2025-06-06 23:00:00,solar,0.0,Los Angeles
+2025-06-06 23:00:00,wind,163.951,Los Angeles
+2025-06-06 23:00:00,solar,0.0,Chicago
+2025-06-06 23:00:00,wind,278.241,Chicago
+2025-06-06 23:00:00,solar,0.0,Houston
+2025-06-06 23:00:00,wind,178.263,Houston
+2025-06-06 23:00:00,solar,0.0,Phoenix
+2025-06-06 23:00:00,wind,14.203,Phoenix
+2025-06-07 00:00:00,solar,0.0,New York
+2025-06-07 00:00:00,wind,324.92,New York
+2025-06-07 00:00:00,solar,0.0,Los Angeles
+2025-06-07 00:00:00,wind,223.02,Los Angeles
+2025-06-07 00:00:00,solar,0.0,Chicago
+2025-06-07 00:00:00,wind,340.468,Chicago
+2025-06-07 00:00:00,solar,0.0,Houston
+2025-06-07 00:00:00,wind,214.801,Houston
+2025-06-07 00:00:00,solar,0.0,Phoenix
+2025-06-07 00:00:00,wind,105.619,Phoenix
+2025-06-07 01:00:00,solar,0.0,New York
+2025-06-07 01:00:00,wind,301.494,New York
+2025-06-07 01:00:00,solar,0.0,Los Angeles
+2025-06-07 01:00:00,wind,208.374,Los Angeles
+2025-06-07 01:00:00,solar,0.0,Chicago
+2025-06-07 01:00:00,wind,293.506,Chicago
+2025-06-07 01:00:00,solar,0.0,Houston
+2025-06-07 01:00:00,wind,297.908,Houston
+2025-06-07 01:00:00,solar,0.0,Phoenix
+2025-06-07 01:00:00,wind,142.423,Phoenix
+2025-06-07 02:00:00,solar,0.0,New York
+2025-06-07 02:00:00,wind,253.059,New York
+2025-06-07 02:00:00,solar,0.0,Los Angeles
+2025-06-07 02:00:00,wind,180.825,Los Angeles
+2025-06-07 02:00:00,solar,0.0,Chicago
+2025-06-07 02:00:00,wind,191.489,Chicago
+2025-06-07 02:00:00,solar,0.0,Houston
+2025-06-07 02:00:00,wind,154.246,Houston
+2025-06-07 02:00:00,solar,0.0,Phoenix
+2025-06-07 02:00:00,wind,17.416,Phoenix
+2025-06-07 03:00:00,solar,0.0,New York
+2025-06-07 03:00:00,wind,223.942,New York
+2025-06-07 03:00:00,solar,0.0,Los Angeles
+2025-06-07 03:00:00,wind,202.656,Los Angeles
+2025-06-07 03:00:00,solar,0.0,Chicago
+2025-06-07 03:00:00,wind,267.709,Chicago
+2025-06-07 03:00:00,solar,0.0,Houston
+2025-06-07 03:00:00,wind,180.494,Houston
+2025-06-07 03:00:00,solar,0.0,Phoenix
+2025-06-07 03:00:00,wind,97.443,Phoenix
+2025-06-07 04:00:00,solar,0.0,New York
+2025-06-07 04:00:00,wind,337.542,New York
+2025-06-07 04:00:00,solar,0.0,Los Angeles
+2025-06-07 04:00:00,wind,118.309,Los Angeles
+2025-06-07 04:00:00,solar,0.0,Chicago
+2025-06-07 04:00:00,wind,254.452,Chicago
+2025-06-07 04:00:00,solar,0.0,Houston
+2025-06-07 04:00:00,wind,265.844,Houston
+2025-06-07 04:00:00,solar,0.0,Phoenix
+2025-06-07 04:00:00,wind,86.146,Phoenix
+2025-06-07 05:00:00,solar,0.0,New York
+2025-06-07 05:00:00,wind,220.927,New York
+2025-06-07 05:00:00,solar,0.0,Los Angeles
+2025-06-07 05:00:00,wind,87.315,Los Angeles
+2025-06-07 05:00:00,solar,0.0,Chicago
+2025-06-07 05:00:00,wind,319.616,Chicago
+2025-06-07 05:00:00,solar,0.0,Houston
+2025-06-07 05:00:00,wind,152.15,Houston
+2025-06-07 05:00:00,solar,0.0,Phoenix
+2025-06-07 05:00:00,wind,109.641,Phoenix
+2025-06-07 06:00:00,solar,0.395,New York
+2025-06-07 06:00:00,wind,291.185,New York
+2025-06-07 06:00:00,solar,0.0,Los Angeles
+2025-06-07 06:00:00,wind,179.125,Los Angeles
+2025-06-07 06:00:00,solar,0.0,Chicago
+2025-06-07 06:00:00,wind,364.142,Chicago
+2025-06-07 06:00:00,solar,20.511,Houston
+2025-06-07 06:00:00,wind,187.765,Houston
+2025-06-07 06:00:00,solar,6.651,Phoenix
+2025-06-07 06:00:00,wind,88.584,Phoenix
+2025-06-07 07:00:00,solar,55.187,New York
+2025-06-07 07:00:00,wind,168.174,New York
+2025-06-07 07:00:00,solar,67.227,Los Angeles
+2025-06-07 07:00:00,wind,248.42,Los Angeles
+2025-06-07 07:00:00,solar,45.943,Chicago
+2025-06-07 07:00:00,wind,350.78,Chicago
+2025-06-07 07:00:00,solar,64.938,Houston
+2025-06-07 07:00:00,wind,198.892,Houston
+2025-06-07 07:00:00,solar,87.91,Phoenix
+2025-06-07 07:00:00,wind,168.433,Phoenix
+2025-06-07 08:00:00,solar,87.98,New York
+2025-06-07 08:00:00,wind,259.849,New York
+2025-06-07 08:00:00,solar,84.095,Los Angeles
+2025-06-07 08:00:00,wind,156.695,Los Angeles
+2025-06-07 08:00:00,solar,82.154,Chicago
+2025-06-07 08:00:00,wind,364.862,Chicago
+2025-06-07 08:00:00,solar,108.384,Houston
+2025-06-07 08:00:00,wind,160.387,Houston
+2025-06-07 08:00:00,solar,88.617,Phoenix
+2025-06-07 08:00:00,wind,33.097,Phoenix
+2025-06-07 09:00:00,solar,137.88,New York
+2025-06-07 09:00:00,wind,338.27,New York
+2025-06-07 09:00:00,solar,138.536,Los Angeles
+2025-06-07 09:00:00,wind,132.126,Los Angeles
+2025-06-07 09:00:00,solar,130.49,Chicago
+2025-06-07 09:00:00,wind,335.587,Chicago
+2025-06-07 09:00:00,solar,136.343,Houston
+2025-06-07 09:00:00,wind,295.25,Houston
+2025-06-07 09:00:00,solar,132.57,Phoenix
+2025-06-07 09:00:00,wind,72.088,Phoenix
+2025-06-07 10:00:00,solar,133.817,New York
+2025-06-07 10:00:00,wind,245.189,New York
+2025-06-07 10:00:00,solar,192.814,Los Angeles
+2025-06-07 10:00:00,wind,213.206,Los Angeles
+2025-06-07 10:00:00,solar,116.515,Chicago
+2025-06-07 10:00:00,wind,330.512,Chicago
+2025-06-07 10:00:00,solar,169.07,Houston
+2025-06-07 10:00:00,wind,282.038,Houston
+2025-06-07 10:00:00,solar,221.402,Phoenix
+2025-06-07 10:00:00,wind,45.413,Phoenix
+2025-06-07 11:00:00,solar,171.734,New York
+2025-06-07 11:00:00,wind,293.316,New York
+2025-06-07 11:00:00,solar,187.42,Los Angeles
+2025-06-07 11:00:00,wind,158.761,Los Angeles
+2025-06-07 11:00:00,solar,172.072,Chicago
+2025-06-07 11:00:00,wind,360.035,Chicago
+2025-06-07 11:00:00,solar,176.083,Houston
+2025-06-07 11:00:00,wind,219.291,Houston
+2025-06-07 11:00:00,solar,180.446,Phoenix
+2025-06-07 11:00:00,wind,53.733,Phoenix
+2025-06-07 12:00:00,solar,169.192,New York
+2025-06-07 12:00:00,wind,259.232,New York
+2025-06-07 12:00:00,solar,200.178,Los Angeles
+2025-06-07 12:00:00,wind,106.868,Los Angeles
+2025-06-07 12:00:00,solar,164.618,Chicago
+2025-06-07 12:00:00,wind,340.497,Chicago
+2025-06-07 12:00:00,solar,191.308,Houston
+2025-06-07 12:00:00,wind,144.817,Houston
+2025-06-07 12:00:00,solar,213.531,Phoenix
+2025-06-07 12:00:00,wind,115.989,Phoenix
+2025-06-07 13:00:00,solar,178.601,New York
+2025-06-07 13:00:00,wind,292.317,New York
+2025-06-07 13:00:00,solar,174.839,Los Angeles
+2025-06-07 13:00:00,wind,173.127,Los Angeles
+2025-06-07 13:00:00,solar,151.783,Chicago
+2025-06-07 13:00:00,wind,305.881,Chicago
+2025-06-07 13:00:00,solar,198.087,Houston
+2025-06-07 13:00:00,wind,245.652,Houston
+2025-06-07 13:00:00,solar,184.66,Phoenix
+2025-06-07 13:00:00,wind,119.271,Phoenix
+2025-06-07 14:00:00,solar,150.618,New York
+2025-06-07 14:00:00,wind,238.784,New York
+2025-06-07 14:00:00,solar,158.297,Los Angeles
+2025-06-07 14:00:00,wind,139.082,Los Angeles
+2025-06-07 14:00:00,solar,172.05,Chicago
+2025-06-07 14:00:00,wind,359.343,Chicago
+2025-06-07 14:00:00,solar,148.369,Houston
+2025-06-07 14:00:00,wind,204.588,Houston
+2025-06-07 14:00:00,solar,169.912,Phoenix
+2025-06-07 14:00:00,wind,66.151,Phoenix
+2025-06-07 15:00:00,solar,132.231,New York
+2025-06-07 15:00:00,wind,178.12,New York
+2025-06-07 15:00:00,solar,144.393,Los Angeles
+2025-06-07 15:00:00,wind,185.572,Los Angeles
+2025-06-07 15:00:00,solar,116.422,Chicago
+2025-06-07 15:00:00,wind,290.99,Chicago
+2025-06-07 15:00:00,solar,155.703,Houston
+2025-06-07 15:00:00,wind,159.584,Houston
+2025-06-07 15:00:00,solar,145.219,Phoenix
+2025-06-07 15:00:00,wind,120.204,Phoenix
+2025-06-07 16:00:00,solar,122.178,New York
+2025-06-07 16:00:00,wind,210.117,New York
+2025-06-07 16:00:00,solar,96.38,Los Angeles
+2025-06-07 16:00:00,wind,252.354,Los Angeles
+2025-06-07 16:00:00,solar,75.604,Chicago
+2025-06-07 16:00:00,wind,278.351,Chicago
+2025-06-07 16:00:00,solar,63.58,Houston
+2025-06-07 16:00:00,wind,127.406,Houston
+2025-06-07 16:00:00,solar,83.379,Phoenix
+2025-06-07 16:00:00,wind,109.643,Phoenix
+2025-06-07 17:00:00,solar,43.064,New York
+2025-06-07 17:00:00,wind,294.73,New York
+2025-06-07 17:00:00,solar,61.954,Los Angeles
+2025-06-07 17:00:00,wind,127.633,Los Angeles
+2025-06-07 17:00:00,solar,43.819,Chicago
+2025-06-07 17:00:00,wind,331.413,Chicago
+2025-06-07 17:00:00,solar,40.496,Houston
+2025-06-07 17:00:00,wind,238.383,Houston
+2025-06-07 17:00:00,solar,60.638,Phoenix
+2025-06-07 17:00:00,wind,104.935,Phoenix
+2025-06-07 18:00:00,solar,2.4,New York
+2025-06-07 18:00:00,wind,329.656,New York
+2025-06-07 18:00:00,solar,0.0,Los Angeles
+2025-06-07 18:00:00,wind,141.593,Los Angeles
+2025-06-07 18:00:00,solar,3.164,Chicago
+2025-06-07 18:00:00,wind,249.798,Chicago
+2025-06-07 18:00:00,solar,0.0,Houston
+2025-06-07 18:00:00,wind,173.362,Houston
+2025-06-07 18:00:00,solar,5.433,Phoenix
+2025-06-07 18:00:00,wind,84.134,Phoenix
+2025-06-07 19:00:00,solar,0.0,New York
+2025-06-07 19:00:00,wind,230.681,New York
+2025-06-07 19:00:00,solar,0.0,Los Angeles
+2025-06-07 19:00:00,wind,137.137,Los Angeles
+2025-06-07 19:00:00,solar,0.0,Chicago
+2025-06-07 19:00:00,wind,277.75,Chicago
+2025-06-07 19:00:00,solar,0.0,Houston
+2025-06-07 19:00:00,wind,198.728,Houston
+2025-06-07 19:00:00,solar,0.0,Phoenix
+2025-06-07 19:00:00,wind,134.507,Phoenix
+2025-06-07 20:00:00,solar,0.0,New York
+2025-06-07 20:00:00,wind,261.044,New York
+2025-06-07 20:00:00,solar,0.0,Los Angeles
+2025-06-07 20:00:00,wind,215.335,Los Angeles
+2025-06-07 20:00:00,solar,0.0,Chicago
+2025-06-07 20:00:00,wind,269.303,Chicago
+2025-06-07 20:00:00,solar,0.0,Houston
+2025-06-07 20:00:00,wind,196.46,Houston
+2025-06-07 20:00:00,solar,0.0,Phoenix
+2025-06-07 20:00:00,wind,81.795,Phoenix
+2025-06-07 21:00:00,solar,0.0,New York
+2025-06-07 21:00:00,wind,186.664,New York
+2025-06-07 21:00:00,solar,0.0,Los Angeles
+2025-06-07 21:00:00,wind,81.299,Los Angeles
+2025-06-07 21:00:00,solar,0.0,Chicago
+2025-06-07 21:00:00,wind,266.543,Chicago
+2025-06-07 21:00:00,solar,0.0,Houston
+2025-06-07 21:00:00,wind,227.258,Houston
+2025-06-07 21:00:00,solar,0.0,Phoenix
+2025-06-07 21:00:00,wind,109.008,Phoenix
+2025-06-07 22:00:00,solar,0.0,New York
+2025-06-07 22:00:00,wind,251.07,New York
+2025-06-07 22:00:00,solar,0.0,Los Angeles
+2025-06-07 22:00:00,wind,239.026,Los Angeles
+2025-06-07 22:00:00,solar,0.0,Chicago
+2025-06-07 22:00:00,wind,259.644,Chicago
+2025-06-07 22:00:00,solar,0.0,Houston
+2025-06-07 22:00:00,wind,213.873,Houston
+2025-06-07 22:00:00,solar,0.0,Phoenix
+2025-06-07 22:00:00,wind,80.665,Phoenix
+2025-06-07 23:00:00,solar,0.0,New York
+2025-06-07 23:00:00,wind,265.966,New York
+2025-06-07 23:00:00,solar,0.0,Los Angeles
+2025-06-07 23:00:00,wind,222.425,Los Angeles
+2025-06-07 23:00:00,solar,0.0,Chicago
+2025-06-07 23:00:00,wind,238.204,Chicago
+2025-06-07 23:00:00,solar,0.0,Houston
+2025-06-07 23:00:00,wind,229.896,Houston
+2025-06-07 23:00:00,solar,0.0,Phoenix
+2025-06-07 23:00:00,wind,111.002,Phoenix
+2025-06-08 00:00:00,solar,0.0,New York
+2025-06-08 00:00:00,wind,223.816,New York
+2025-06-08 00:00:00,solar,0.0,Los Angeles
+2025-06-08 00:00:00,wind,77.481,Los Angeles
+2025-06-08 00:00:00,solar,0.0,Chicago
+2025-06-08 00:00:00,wind,300.666,Chicago
+2025-06-08 00:00:00,solar,0.0,Houston
+2025-06-08 00:00:00,wind,317.806,Houston
+2025-06-08 00:00:00,solar,0.0,Phoenix
+2025-06-08 00:00:00,wind,24.118,Phoenix
+2025-06-08 01:00:00,solar,0.0,New York
+2025-06-08 01:00:00,wind,185.059,New York
+2025-06-08 01:00:00,solar,0.0,Los Angeles
+2025-06-08 01:00:00,wind,191.438,Los Angeles
+2025-06-08 01:00:00,solar,0.0,Chicago
+2025-06-08 01:00:00,wind,235.351,Chicago
+2025-06-08 01:00:00,solar,0.0,Houston
+2025-06-08 01:00:00,wind,234.949,Houston
+2025-06-08 01:00:00,solar,0.0,Phoenix
+2025-06-08 01:00:00,wind,107.805,Phoenix
+2025-06-08 02:00:00,solar,0.0,New York
+2025-06-08 02:00:00,wind,199.29,New York
+2025-06-08 02:00:00,solar,0.0,Los Angeles
+2025-06-08 02:00:00,wind,140.224,Los Angeles
+2025-06-08 02:00:00,solar,0.0,Chicago
+2025-06-08 02:00:00,wind,226.538,Chicago
+2025-06-08 02:00:00,solar,0.0,Houston
+2025-06-08 02:00:00,wind,247.604,Houston
+2025-06-08 02:00:00,solar,0.0,Phoenix
+2025-06-08 02:00:00,wind,148.606,Phoenix
+2025-06-08 03:00:00,solar,0.0,New York
+2025-06-08 03:00:00,wind,307.599,New York
+2025-06-08 03:00:00,solar,0.0,Los Angeles
+2025-06-08 03:00:00,wind,149.968,Los Angeles
+2025-06-08 03:00:00,solar,0.0,Chicago
+2025-06-08 03:00:00,wind,255.669,Chicago
+2025-06-08 03:00:00,solar,0.0,Houston
+2025-06-08 03:00:00,wind,202.193,Houston
+2025-06-08 03:00:00,solar,0.0,Phoenix
+2025-06-08 03:00:00,wind,140.695,Phoenix
+2025-06-08 04:00:00,solar,0.0,New York
+2025-06-08 04:00:00,wind,204.613,New York
+2025-06-08 04:00:00,solar,0.0,Los Angeles
+2025-06-08 04:00:00,wind,127.838,Los Angeles
+2025-06-08 04:00:00,solar,0.0,Chicago
+2025-06-08 04:00:00,wind,333.389,Chicago
+2025-06-08 04:00:00,solar,0.0,Houston
+2025-06-08 04:00:00,wind,137.424,Houston
+2025-06-08 04:00:00,solar,0.0,Phoenix
+2025-06-08 04:00:00,wind,111.403,Phoenix
+2025-06-08 05:00:00,solar,0.0,New York
+2025-06-08 05:00:00,wind,235.746,New York
+2025-06-08 05:00:00,solar,0.0,Los Angeles
+2025-06-08 05:00:00,wind,147.583,Los Angeles
+2025-06-08 05:00:00,solar,0.0,Chicago
+2025-06-08 05:00:00,wind,291.243,Chicago
+2025-06-08 05:00:00,solar,0.0,Houston
+2025-06-08 05:00:00,wind,189.122,Houston
+2025-06-08 05:00:00,solar,0.0,Phoenix
+2025-06-08 05:00:00,wind,116.589,Phoenix
+2025-06-08 06:00:00,solar,1.995,New York
+2025-06-08 06:00:00,wind,269.719,New York
+2025-06-08 06:00:00,solar,0.0,Los Angeles
+2025-06-08 06:00:00,wind,65.849,Los Angeles
+2025-06-08 06:00:00,solar,10.364,Chicago
+2025-06-08 06:00:00,wind,363.491,Chicago
+2025-06-08 06:00:00,solar,0.0,Houston
+2025-06-08 06:00:00,wind,208.356,Houston
+2025-06-08 06:00:00,solar,2.487,Phoenix
+2025-06-08 06:00:00,wind,131.602,Phoenix
+2025-06-08 07:00:00,solar,47.513,New York
+2025-06-08 07:00:00,wind,278.114,New York
+2025-06-08 07:00:00,solar,62.597,Los Angeles
+2025-06-08 07:00:00,wind,239.112,Los Angeles
+2025-06-08 07:00:00,solar,61.633,Chicago
+2025-06-08 07:00:00,wind,349.19,Chicago
+2025-06-08 07:00:00,solar,60.44,Houston
+2025-06-08 07:00:00,wind,245.745,Houston
+2025-06-08 07:00:00,solar,70.302,Phoenix
+2025-06-08 07:00:00,wind,43.057,Phoenix
+2025-06-08 08:00:00,solar,86.243,New York
+2025-06-08 08:00:00,wind,273.719,New York
+2025-06-08 08:00:00,solar,99.588,Los Angeles
+2025-06-08 08:00:00,wind,81.454,Los Angeles
+2025-06-08 08:00:00,solar,70.929,Chicago
+2025-06-08 08:00:00,wind,343.118,Chicago
+2025-06-08 08:00:00,solar,89.139,Houston
+2025-06-08 08:00:00,wind,180.762,Houston
+2025-06-08 08:00:00,solar,118.834,Phoenix
+2025-06-08 08:00:00,wind,97.948,Phoenix
+2025-06-08 09:00:00,solar,145.095,New York
+2025-06-08 09:00:00,wind,262.769,New York
+2025-06-08 09:00:00,solar,129.938,Los Angeles
+2025-06-08 09:00:00,wind,217.716,Los Angeles
+2025-06-08 09:00:00,solar,117.696,Chicago
+2025-06-08 09:00:00,wind,364.975,Chicago
+2025-06-08 09:00:00,solar,163.711,Houston
+2025-06-08 09:00:00,wind,265.282,Houston
+2025-06-08 09:00:00,solar,135.27,Phoenix
+2025-06-08 09:00:00,wind,26.401,Phoenix
+2025-06-08 10:00:00,solar,138.696,New York
+2025-06-08 10:00:00,wind,250.578,New York
+2025-06-08 10:00:00,solar,176.384,Los Angeles
+2025-06-08 10:00:00,wind,116.826,Los Angeles
+2025-06-08 10:00:00,solar,117.038,Chicago
+2025-06-08 10:00:00,wind,260.11,Chicago
+2025-06-08 10:00:00,solar,156.498,Houston
+2025-06-08 10:00:00,wind,267.305,Houston
+2025-06-08 10:00:00,solar,185.529,Phoenix
+2025-06-08 10:00:00,wind,183.592,Phoenix
+2025-06-08 11:00:00,solar,177.256,New York
+2025-06-08 11:00:00,wind,273.497,New York
+2025-06-08 11:00:00,solar,186.916,Los Angeles
+2025-06-08 11:00:00,wind,190.388,Los Angeles
+2025-06-08 11:00:00,solar,124.631,Chicago
+2025-06-08 11:00:00,wind,324.281,Chicago
+2025-06-08 11:00:00,solar,177.189,Houston
+2025-06-08 11:00:00,wind,262.281,Houston
+2025-06-08 11:00:00,solar,185.675,Phoenix
+2025-06-08 11:00:00,wind,123.32,Phoenix
+2025-06-08 12:00:00,solar,165.089,New York
+2025-06-08 12:00:00,wind,191.8,New York
+2025-06-08 12:00:00,solar,180.664,Los Angeles
+2025-06-08 12:00:00,wind,173.942,Los Angeles
+2025-06-08 12:00:00,solar,178.239,Chicago
+2025-06-08 12:00:00,wind,287.344,Chicago
+2025-06-08 12:00:00,solar,222.134,Houston
+2025-06-08 12:00:00,wind,151.049,Houston
+2025-06-08 12:00:00,solar,190.357,Phoenix
+2025-06-08 12:00:00,wind,138.067,Phoenix
+2025-06-08 13:00:00,solar,168.008,New York
+2025-06-08 13:00:00,wind,311.632,New York
+2025-06-08 13:00:00,solar,186.097,Los Angeles
+2025-06-08 13:00:00,wind,152.796,Los Angeles
+2025-06-08 13:00:00,solar,160.485,Chicago
+2025-06-08 13:00:00,wind,230.151,Chicago
+2025-06-08 13:00:00,solar,208.003,Houston
+2025-06-08 13:00:00,wind,170.938,Houston
+2025-06-08 13:00:00,solar,203.105,Phoenix
+2025-06-08 13:00:00,wind,103.834,Phoenix
+2025-06-08 14:00:00,solar,141.789,New York
+2025-06-08 14:00:00,wind,254.628,New York
+2025-06-08 14:00:00,solar,167.697,Los Angeles
+2025-06-08 14:00:00,wind,201.718,Los Angeles
+2025-06-08 14:00:00,solar,137.822,Chicago
+2025-06-08 14:00:00,wind,331.768,Chicago
+2025-06-08 14:00:00,solar,138.262,Houston
+2025-06-08 14:00:00,wind,263.522,Houston
+2025-06-08 14:00:00,solar,203.711,Phoenix
+2025-06-08 14:00:00,wind,145.619,Phoenix
+2025-06-08 15:00:00,solar,151.532,New York
+2025-06-08 15:00:00,wind,293.78,New York
+2025-06-08 15:00:00,solar,169.388,Los Angeles
+2025-06-08 15:00:00,wind,179.609,Los Angeles
+2025-06-08 15:00:00,solar,112.131,Chicago
+2025-06-08 15:00:00,wind,240.01,Chicago
+2025-06-08 15:00:00,solar,119.984,Houston
+2025-06-08 15:00:00,wind,223.934,Houston
+2025-06-08 15:00:00,solar,157.251,Phoenix
+2025-06-08 15:00:00,wind,130.955,Phoenix
+2025-06-08 16:00:00,solar,118.826,New York
+2025-06-08 16:00:00,wind,293.987,New York
+2025-06-08 16:00:00,solar,115.374,Los Angeles
+2025-06-08 16:00:00,wind,135.049,Los Angeles
+2025-06-08 16:00:00,solar,78.511,Chicago
+2025-06-08 16:00:00,wind,359.887,Chicago
+2025-06-08 16:00:00,solar,102.932,Houston
+2025-06-08 16:00:00,wind,217.593,Houston
+2025-06-08 16:00:00,solar,102.48,Phoenix
+2025-06-08 16:00:00,wind,43.763,Phoenix
+2025-06-08 17:00:00,solar,74.296,New York
+2025-06-08 17:00:00,wind,172.879,New York
+2025-06-08 17:00:00,solar,55.985,Los Angeles
+2025-06-08 17:00:00,wind,179.617,Los Angeles
+2025-06-08 17:00:00,solar,47.247,Chicago
+2025-06-08 17:00:00,wind,308.125,Chicago
+2025-06-08 17:00:00,solar,65.381,Houston
+2025-06-08 17:00:00,wind,160.47,Houston
+2025-06-08 17:00:00,solar,58.037,Phoenix
+2025-06-08 17:00:00,wind,104.284,Phoenix
+2025-06-08 18:00:00,solar,9.312,New York
+2025-06-08 18:00:00,wind,263.421,New York
+2025-06-08 18:00:00,solar,3.561,Los Angeles
+2025-06-08 18:00:00,wind,232.982,Los Angeles
+2025-06-08 18:00:00,solar,0.131,Chicago
+2025-06-08 18:00:00,wind,300.511,Chicago
+2025-06-08 18:00:00,solar,0.0,Houston
+2025-06-08 18:00:00,wind,224.381,Houston
+2025-06-08 18:00:00,solar,3.81,Phoenix
+2025-06-08 18:00:00,wind,160.539,Phoenix
+2025-06-08 19:00:00,solar,0.0,New York
+2025-06-08 19:00:00,wind,247.246,New York
+2025-06-08 19:00:00,solar,0.0,Los Angeles
+2025-06-08 19:00:00,wind,149.639,Los Angeles
+2025-06-08 19:00:00,solar,0.0,Chicago
+2025-06-08 19:00:00,wind,328.141,Chicago
+2025-06-08 19:00:00,solar,0.0,Houston
+2025-06-08 19:00:00,wind,287.59,Houston
+2025-06-08 19:00:00,solar,0.0,Phoenix
+2025-06-08 19:00:00,wind,141.131,Phoenix
+2025-06-08 20:00:00,solar,0.0,New York
+2025-06-08 20:00:00,wind,309.831,New York
+2025-06-08 20:00:00,solar,0.0,Los Angeles
+2025-06-08 20:00:00,wind,161.09,Los Angeles
+2025-06-08 20:00:00,solar,0.0,Chicago
+2025-06-08 20:00:00,wind,284.742,Chicago
+2025-06-08 20:00:00,solar,0.0,Houston
+2025-06-08 20:00:00,wind,234.185,Houston
+2025-06-08 20:00:00,solar,0.0,Phoenix
+2025-06-08 20:00:00,wind,122.734,Phoenix
+2025-06-08 21:00:00,solar,0.0,New York
+2025-06-08 21:00:00,wind,284.741,New York
+2025-06-08 21:00:00,solar,0.0,Los Angeles
+2025-06-08 21:00:00,wind,202.532,Los Angeles
+2025-06-08 21:00:00,solar,0.0,Chicago
+2025-06-08 21:00:00,wind,294.093,Chicago
+2025-06-08 21:00:00,solar,0.0,Houston
+2025-06-08 21:00:00,wind,195.299,Houston
+2025-06-08 21:00:00,solar,0.0,Phoenix
+2025-06-08 21:00:00,wind,98.059,Phoenix
+2025-06-08 22:00:00,solar,0.0,New York
+2025-06-08 22:00:00,wind,298.155,New York
+2025-06-08 22:00:00,solar,0.0,Los Angeles
+2025-06-08 22:00:00,wind,231.516,Los Angeles
+2025-06-08 22:00:00,solar,0.0,Chicago
+2025-06-08 22:00:00,wind,217.213,Chicago
+2025-06-08 22:00:00,solar,0.0,Houston
+2025-06-08 22:00:00,wind,231.444,Houston
+2025-06-08 22:00:00,solar,0.0,Phoenix
+2025-06-08 22:00:00,wind,154.104,Phoenix
+2025-06-08 23:00:00,solar,0.0,New York
+2025-06-08 23:00:00,wind,256.699,New York
+2025-06-08 23:00:00,solar,0.0,Los Angeles
+2025-06-08 23:00:00,wind,47.253,Los Angeles
+2025-06-08 23:00:00,solar,0.0,Chicago
+2025-06-08 23:00:00,wind,312.07,Chicago
+2025-06-08 23:00:00,solar,0.0,Houston
+2025-06-08 23:00:00,wind,180.892,Houston
+2025-06-08 23:00:00,solar,0.0,Phoenix
+2025-06-08 23:00:00,wind,114.742,Phoenix
+2025-06-09 00:00:00,solar,0.0,New York
+2025-06-09 00:00:00,wind,317.472,New York
+2025-06-09 00:00:00,solar,0.0,Los Angeles
+2025-06-09 00:00:00,wind,202.552,Los Angeles
+2025-06-09 00:00:00,solar,0.0,Chicago
+2025-06-09 00:00:00,wind,370.582,Chicago
+2025-06-09 00:00:00,solar,0.0,Houston
+2025-06-09 00:00:00,wind,159.634,Houston
+2025-06-09 00:00:00,solar,0.0,Phoenix
+2025-06-09 00:00:00,wind,147.421,Phoenix
+2025-06-09 01:00:00,solar,0.0,New York
+2025-06-09 01:00:00,wind,286.373,New York
+2025-06-09 01:00:00,solar,0.0,Los Angeles
+2025-06-09 01:00:00,wind,183.385,Los Angeles
+2025-06-09 01:00:00,solar,0.0,Chicago
+2025-06-09 01:00:00,wind,206.497,Chicago
+2025-06-09 01:00:00,solar,0.0,Houston
+2025-06-09 01:00:00,wind,200.733,Houston
+2025-06-09 01:00:00,solar,0.0,Phoenix
+2025-06-09 01:00:00,wind,66.414,Phoenix
+2025-06-09 02:00:00,solar,0.0,New York
+2025-06-09 02:00:00,wind,166.89,New York
+2025-06-09 02:00:00,solar,0.0,Los Angeles
+2025-06-09 02:00:00,wind,150.162,Los Angeles
+2025-06-09 02:00:00,solar,0.0,Chicago
+2025-06-09 02:00:00,wind,325.942,Chicago
+2025-06-09 02:00:00,solar,0.0,Houston
+2025-06-09 02:00:00,wind,211.08,Houston
+2025-06-09 02:00:00,solar,0.0,Phoenix
+2025-06-09 02:00:00,wind,99.113,Phoenix
+2025-06-09 03:00:00,solar,0.0,New York
+2025-06-09 03:00:00,wind,196.421,New York
+2025-06-09 03:00:00,solar,0.0,Los Angeles
+2025-06-09 03:00:00,wind,77.262,Los Angeles
+2025-06-09 03:00:00,solar,0.0,Chicago
+2025-06-09 03:00:00,wind,255.489,Chicago
+2025-06-09 03:00:00,solar,0.0,Houston
+2025-06-09 03:00:00,wind,187.35,Houston
+2025-06-09 03:00:00,solar,0.0,Phoenix
+2025-06-09 03:00:00,wind,69.628,Phoenix
+2025-06-09 04:00:00,solar,0.0,New York
+2025-06-09 04:00:00,wind,234.666,New York
+2025-06-09 04:00:00,solar,0.0,Los Angeles
+2025-06-09 04:00:00,wind,254.447,Los Angeles
+2025-06-09 04:00:00,solar,0.0,Chicago
+2025-06-09 04:00:00,wind,301.845,Chicago
+2025-06-09 04:00:00,solar,0.0,Houston
+2025-06-09 04:00:00,wind,251.07,Houston
+2025-06-09 04:00:00,solar,0.0,Phoenix
+2025-06-09 04:00:00,wind,64.816,Phoenix
+2025-06-09 05:00:00,solar,0.0,New York
+2025-06-09 05:00:00,wind,212.886,New York
+2025-06-09 05:00:00,solar,0.0,Los Angeles
+2025-06-09 05:00:00,wind,110.723,Los Angeles
+2025-06-09 05:00:00,solar,0.0,Chicago
+2025-06-09 05:00:00,wind,304.901,Chicago
+2025-06-09 05:00:00,solar,0.0,Houston
+2025-06-09 05:00:00,wind,150.233,Houston
+2025-06-09 05:00:00,solar,0.0,Phoenix
+2025-06-09 05:00:00,wind,202.295,Phoenix
+2025-06-09 06:00:00,solar,0.0,New York
+2025-06-09 06:00:00,wind,240.582,New York
+2025-06-09 06:00:00,solar,0.0,Los Angeles
+2025-06-09 06:00:00,wind,174.226,Los Angeles
+2025-06-09 06:00:00,solar,0.0,Chicago
+2025-06-09 06:00:00,wind,286.698,Chicago
+2025-06-09 06:00:00,solar,0.0,Houston
+2025-06-09 06:00:00,wind,166.806,Houston
+2025-06-09 06:00:00,solar,12.313,Phoenix
+2025-06-09 06:00:00,wind,152.45,Phoenix
+2025-06-09 07:00:00,solar,45.381,New York
+2025-06-09 07:00:00,wind,266.505,New York
+2025-06-09 07:00:00,solar,71.324,Los Angeles
+2025-06-09 07:00:00,wind,101.178,Los Angeles
+2025-06-09 07:00:00,solar,34.501,Chicago
+2025-06-09 07:00:00,wind,219.862,Chicago
+2025-06-09 07:00:00,solar,50.758,Houston
+2025-06-09 07:00:00,wind,135.843,Houston
+2025-06-09 07:00:00,solar,65.171,Phoenix
+2025-06-09 07:00:00,wind,43.506,Phoenix
+2025-06-09 08:00:00,solar,89.312,New York
+2025-06-09 08:00:00,wind,231.08,New York
+2025-06-09 08:00:00,solar,82.969,Los Angeles
+2025-06-09 08:00:00,wind,223.206,Los Angeles
+2025-06-09 08:00:00,solar,93.56,Chicago
+2025-06-09 08:00:00,wind,302.319,Chicago
+2025-06-09 08:00:00,solar,95.863,Houston
+2025-06-09 08:00:00,wind,133.568,Houston
+2025-06-09 08:00:00,solar,122.244,Phoenix
+2025-06-09 08:00:00,wind,56.824,Phoenix
+2025-06-09 09:00:00,solar,114.9,New York
+2025-06-09 09:00:00,wind,167.141,New York
+2025-06-09 09:00:00,solar,151.245,Los Angeles
+2025-06-09 09:00:00,wind,172.114,Los Angeles
+2025-06-09 09:00:00,solar,126.851,Chicago
+2025-06-09 09:00:00,wind,340.297,Chicago
+2025-06-09 09:00:00,solar,121.74,Houston
+2025-06-09 09:00:00,wind,299.246,Houston
+2025-06-09 09:00:00,solar,149.351,Phoenix
+2025-06-09 09:00:00,wind,50.894,Phoenix
+2025-06-09 10:00:00,solar,144.19,New York
+2025-06-09 10:00:00,wind,269.429,New York
+2025-06-09 10:00:00,solar,163.571,Los Angeles
+2025-06-09 10:00:00,wind,267.315,Los Angeles
+2025-06-09 10:00:00,solar,166.537,Chicago
+2025-06-09 10:00:00,wind,385.266,Chicago
+2025-06-09 10:00:00,solar,170.13,Houston
+2025-06-09 10:00:00,wind,242.245,Houston
+2025-06-09 10:00:00,solar,190.288,Phoenix
+2025-06-09 10:00:00,wind,136.255,Phoenix
+2025-06-09 11:00:00,solar,164.649,New York
+2025-06-09 11:00:00,wind,265.188,New York
+2025-06-09 11:00:00,solar,178.203,Los Angeles
+2025-06-09 11:00:00,wind,246.772,Los Angeles
+2025-06-09 11:00:00,solar,176.046,Chicago
+2025-06-09 11:00:00,wind,261.151,Chicago
+2025-06-09 11:00:00,solar,182.817,Houston
+2025-06-09 11:00:00,wind,220.934,Houston
+2025-06-09 11:00:00,solar,200.468,Phoenix
+2025-06-09 11:00:00,wind,89.732,Phoenix
+2025-06-09 12:00:00,solar,204.656,New York
+2025-06-09 12:00:00,wind,218.606,New York
+2025-06-09 12:00:00,solar,204.883,Los Angeles
+2025-06-09 12:00:00,wind,122.492,Los Angeles
+2025-06-09 12:00:00,solar,138.533,Chicago
+2025-06-09 12:00:00,wind,153.445,Chicago
+2025-06-09 12:00:00,solar,188.358,Houston
+2025-06-09 12:00:00,wind,298.656,Houston
+2025-06-09 12:00:00,solar,194.138,Phoenix
+2025-06-09 12:00:00,wind,53.98,Phoenix
+2025-06-09 13:00:00,solar,154.431,New York
+2025-06-09 13:00:00,wind,258.348,New York
+2025-06-09 13:00:00,solar,215.67,Los Angeles
+2025-06-09 13:00:00,wind,202.486,Los Angeles
+2025-06-09 13:00:00,solar,149.585,Chicago
+2025-06-09 13:00:00,wind,238.044,Chicago
+2025-06-09 13:00:00,solar,194.894,Houston
+2025-06-09 13:00:00,wind,227.632,Houston
+2025-06-09 13:00:00,solar,170.734,Phoenix
+2025-06-09 13:00:00,wind,172.726,Phoenix
+2025-06-09 14:00:00,solar,161.848,New York
+2025-06-09 14:00:00,wind,286.981,New York
+2025-06-09 14:00:00,solar,147.999,Los Angeles
+2025-06-09 14:00:00,wind,175.259,Los Angeles
+2025-06-09 14:00:00,solar,145.624,Chicago
+2025-06-09 14:00:00,wind,304.657,Chicago
+2025-06-09 14:00:00,solar,148.852,Houston
+2025-06-09 14:00:00,wind,191.819,Houston
+2025-06-09 14:00:00,solar,181.915,Phoenix
+2025-06-09 14:00:00,wind,72.29,Phoenix
+2025-06-09 15:00:00,solar,139.086,New York
+2025-06-09 15:00:00,wind,199.313,New York
+2025-06-09 15:00:00,solar,123.149,Los Angeles
+2025-06-09 15:00:00,wind,159.547,Los Angeles
+2025-06-09 15:00:00,solar,124.762,Chicago
+2025-06-09 15:00:00,wind,310.998,Chicago
+2025-06-09 15:00:00,solar,145.747,Houston
+2025-06-09 15:00:00,wind,275.412,Houston
+2025-06-09 15:00:00,solar,131.152,Phoenix
+2025-06-09 15:00:00,wind,87.62,Phoenix
+2025-06-09 16:00:00,solar,86.478,New York
+2025-06-09 16:00:00,wind,239.28,New York
+2025-06-09 16:00:00,solar,107.29,Los Angeles
+2025-06-09 16:00:00,wind,149.981,Los Angeles
+2025-06-09 16:00:00,solar,112.618,Chicago
+2025-06-09 16:00:00,wind,382.887,Chicago
+2025-06-09 16:00:00,solar,98.596,Houston
+2025-06-09 16:00:00,wind,196.729,Houston
+2025-06-09 16:00:00,solar,100.838,Phoenix
+2025-06-09 16:00:00,wind,136.839,Phoenix
+2025-06-09 17:00:00,solar,49.061,New York
+2025-06-09 17:00:00,wind,276.02,New York
+2025-06-09 17:00:00,solar,40.246,Los Angeles
+2025-06-09 17:00:00,wind,220.825,Los Angeles
+2025-06-09 17:00:00,solar,37.852,Chicago
+2025-06-09 17:00:00,wind,341.074,Chicago
+2025-06-09 17:00:00,solar,34.331,Houston
+2025-06-09 17:00:00,wind,189.633,Houston
+2025-06-09 17:00:00,solar,56.135,Phoenix
+2025-06-09 17:00:00,wind,75.297,Phoenix
+2025-06-09 18:00:00,solar,12.104,New York
+2025-06-09 18:00:00,wind,332.753,New York
+2025-06-09 18:00:00,solar,2.796,Los Angeles
+2025-06-09 18:00:00,wind,154.759,Los Angeles
+2025-06-09 18:00:00,solar,10.217,Chicago
+2025-06-09 18:00:00,wind,303.576,Chicago
+2025-06-09 18:00:00,solar,0.0,Houston
+2025-06-09 18:00:00,wind,165.683,Houston
+2025-06-09 18:00:00,solar,14.621,Phoenix
+2025-06-09 18:00:00,wind,139.106,Phoenix
+2025-06-09 19:00:00,solar,0.0,New York
+2025-06-09 19:00:00,wind,236.05,New York
+2025-06-09 19:00:00,solar,0.0,Los Angeles
+2025-06-09 19:00:00,wind,150.959,Los Angeles
+2025-06-09 19:00:00,solar,0.0,Chicago
+2025-06-09 19:00:00,wind,306.383,Chicago
+2025-06-09 19:00:00,solar,0.0,Houston
+2025-06-09 19:00:00,wind,267.889,Houston
+2025-06-09 19:00:00,solar,0.0,Phoenix
+2025-06-09 19:00:00,wind,64.325,Phoenix
+2025-06-09 20:00:00,solar,0.0,New York
+2025-06-09 20:00:00,wind,295.836,New York
+2025-06-09 20:00:00,solar,0.0,Los Angeles
+2025-06-09 20:00:00,wind,147.409,Los Angeles
+2025-06-09 20:00:00,solar,0.0,Chicago
+2025-06-09 20:00:00,wind,209.203,Chicago
+2025-06-09 20:00:00,solar,0.0,Houston
+2025-06-09 20:00:00,wind,210.466,Houston
+2025-06-09 20:00:00,solar,0.0,Phoenix
+2025-06-09 20:00:00,wind,56.297,Phoenix
+2025-06-09 21:00:00,solar,0.0,New York
+2025-06-09 21:00:00,wind,220.928,New York
+2025-06-09 21:00:00,solar,0.0,Los Angeles
+2025-06-09 21:00:00,wind,130.295,Los Angeles
+2025-06-09 21:00:00,solar,0.0,Chicago
+2025-06-09 21:00:00,wind,389.819,Chicago
+2025-06-09 21:00:00,solar,0.0,Houston
+2025-06-09 21:00:00,wind,70.897,Houston
+2025-06-09 21:00:00,solar,0.0,Phoenix
+2025-06-09 21:00:00,wind,110.729,Phoenix
+2025-06-09 22:00:00,solar,0.0,New York
+2025-06-09 22:00:00,wind,236.918,New York
+2025-06-09 22:00:00,solar,0.0,Los Angeles
+2025-06-09 22:00:00,wind,129.118,Los Angeles
+2025-06-09 22:00:00,solar,0.0,Chicago
+2025-06-09 22:00:00,wind,303.819,Chicago
+2025-06-09 22:00:00,solar,0.0,Houston
+2025-06-09 22:00:00,wind,248.736,Houston
+2025-06-09 22:00:00,solar,0.0,Phoenix
+2025-06-09 22:00:00,wind,114.941,Phoenix
+2025-06-09 23:00:00,solar,0.0,New York
+2025-06-09 23:00:00,wind,309.311,New York
+2025-06-09 23:00:00,solar,0.0,Los Angeles
+2025-06-09 23:00:00,wind,277.421,Los Angeles
+2025-06-09 23:00:00,solar,0.0,Chicago
+2025-06-09 23:00:00,wind,291.012,Chicago
+2025-06-09 23:00:00,solar,0.0,Houston
+2025-06-09 23:00:00,wind,173.809,Houston
+2025-06-09 23:00:00,solar,0.0,Phoenix
+2025-06-09 23:00:00,wind,194.357,Phoenix
+2025-06-10 00:00:00,solar,0.0,New York
+2025-06-10 00:00:00,wind,273.14,New York
+2025-06-10 00:00:00,solar,0.0,Los Angeles
+2025-06-10 00:00:00,wind,178.566,Los Angeles
+2025-06-10 00:00:00,solar,0.0,Chicago
+2025-06-10 00:00:00,wind,369.686,Chicago
+2025-06-10 00:00:00,solar,0.0,Houston
+2025-06-10 00:00:00,wind,117.745,Houston
+2025-06-10 00:00:00,solar,0.0,Phoenix
+2025-06-10 00:00:00,wind,97.502,Phoenix
+2025-06-10 01:00:00,solar,0.0,New York
+2025-06-10 01:00:00,wind,247.156,New York
+2025-06-10 01:00:00,solar,0.0,Los Angeles
+2025-06-10 01:00:00,wind,238.957,Los Angeles
+2025-06-10 01:00:00,solar,0.0,Chicago
+2025-06-10 01:00:00,wind,362.433,Chicago
+2025-06-10 01:00:00,solar,0.0,Houston
+2025-06-10 01:00:00,wind,287.79,Houston
+2025-06-10 01:00:00,solar,0.0,Phoenix
+2025-06-10 01:00:00,wind,67.846,Phoenix
+2025-06-10 02:00:00,solar,0.0,New York
+2025-06-10 02:00:00,wind,284.717,New York
+2025-06-10 02:00:00,solar,0.0,Los Angeles
+2025-06-10 02:00:00,wind,108.617,Los Angeles
+2025-06-10 02:00:00,solar,0.0,Chicago
+2025-06-10 02:00:00,wind,144.374,Chicago
+2025-06-10 02:00:00,solar,0.0,Houston
+2025-06-10 02:00:00,wind,210.775,Houston
+2025-06-10 02:00:00,solar,0.0,Phoenix
+2025-06-10 02:00:00,wind,69.48,Phoenix
+2025-06-10 03:00:00,solar,0.0,New York
+2025-06-10 03:00:00,wind,241.652,New York
+2025-06-10 03:00:00,solar,0.0,Los Angeles
+2025-06-10 03:00:00,wind,259.877,Los Angeles
+2025-06-10 03:00:00,solar,0.0,Chicago
+2025-06-10 03:00:00,wind,266.772,Chicago
+2025-06-10 03:00:00,solar,0.0,Houston
+2025-06-10 03:00:00,wind,144.715,Houston
+2025-06-10 03:00:00,solar,0.0,Phoenix
+2025-06-10 03:00:00,wind,142.252,Phoenix
+2025-06-10 04:00:00,solar,0.0,New York
+2025-06-10 04:00:00,wind,147.309,New York
+2025-06-10 04:00:00,solar,0.0,Los Angeles
+2025-06-10 04:00:00,wind,159.003,Los Angeles
+2025-06-10 04:00:00,solar,0.0,Chicago
+2025-06-10 04:00:00,wind,204.016,Chicago
+2025-06-10 04:00:00,solar,0.0,Houston
+2025-06-10 04:00:00,wind,135.14,Houston
+2025-06-10 04:00:00,solar,0.0,Phoenix
+2025-06-10 04:00:00,wind,3.298,Phoenix
+2025-06-10 05:00:00,solar,0.0,New York
+2025-06-10 05:00:00,wind,280.011,New York
+2025-06-10 05:00:00,solar,0.0,Los Angeles
+2025-06-10 05:00:00,wind,189.679,Los Angeles
+2025-06-10 05:00:00,solar,0.0,Chicago
+2025-06-10 05:00:00,wind,227.999,Chicago
+2025-06-10 05:00:00,solar,0.0,Houston
+2025-06-10 05:00:00,wind,117.261,Houston
+2025-06-10 05:00:00,solar,0.0,Phoenix
+2025-06-10 05:00:00,wind,77.298,Phoenix
+2025-06-10 06:00:00,solar,0.0,New York
+2025-06-10 06:00:00,wind,249.067,New York
+2025-06-10 06:00:00,solar,0.0,Los Angeles
+2025-06-10 06:00:00,wind,285.02,Los Angeles
+2025-06-10 06:00:00,solar,0.885,Chicago
+2025-06-10 06:00:00,wind,198.283,Chicago
+2025-06-10 06:00:00,solar,7.487,Houston
+2025-06-10 06:00:00,wind,140.194,Houston
+2025-06-10 06:00:00,solar,9.904,Phoenix
+2025-06-10 06:00:00,wind,155.427,Phoenix
+2025-06-10 07:00:00,solar,30.727,New York
+2025-06-10 07:00:00,wind,300.36,New York
+2025-06-10 07:00:00,solar,59.393,Los Angeles
+2025-06-10 07:00:00,wind,212.116,Los Angeles
+2025-06-10 07:00:00,solar,47.044,Chicago
+2025-06-10 07:00:00,wind,188.977,Chicago
+2025-06-10 07:00:00,solar,70.22,Houston
+2025-06-10 07:00:00,wind,230.803,Houston
+2025-06-10 07:00:00,solar,63.778,Phoenix
+2025-06-10 07:00:00,wind,115.172,Phoenix
+2025-06-10 08:00:00,solar,111.566,New York
+2025-06-10 08:00:00,wind,267.841,New York
+2025-06-10 08:00:00,solar,105.206,Los Angeles
+2025-06-10 08:00:00,wind,185.224,Los Angeles
+2025-06-10 08:00:00,solar,75.787,Chicago
+2025-06-10 08:00:00,wind,314.08,Chicago
+2025-06-10 08:00:00,solar,95.313,Houston
+2025-06-10 08:00:00,wind,202.304,Houston
+2025-06-10 08:00:00,solar,102.901,Phoenix
+2025-06-10 08:00:00,wind,208.489,Phoenix
+2025-06-10 09:00:00,solar,125.427,New York
+2025-06-10 09:00:00,wind,265.706,New York
+2025-06-10 09:00:00,solar,154.774,Los Angeles
+2025-06-10 09:00:00,wind,129.972,Los Angeles
+2025-06-10 09:00:00,solar,107.644,Chicago
+2025-06-10 09:00:00,wind,239.827,Chicago
+2025-06-10 09:00:00,solar,121.101,Houston
+2025-06-10 09:00:00,wind,211.661,Houston
+2025-06-10 09:00:00,solar,142.415,Phoenix
+2025-06-10 09:00:00,wind,82.209,Phoenix
+2025-06-10 10:00:00,solar,171.185,New York
+2025-06-10 10:00:00,wind,129.838,New York
+2025-06-10 10:00:00,solar,166.765,Los Angeles
+2025-06-10 10:00:00,wind,202.181,Los Angeles
+2025-06-10 10:00:00,solar,134.73,Chicago
+2025-06-10 10:00:00,wind,261.432,Chicago
+2025-06-10 10:00:00,solar,156.224,Houston
+2025-06-10 10:00:00,wind,211.626,Houston
+2025-06-10 10:00:00,solar,150.343,Phoenix
+2025-06-10 10:00:00,wind,101.88,Phoenix
+2025-06-10 11:00:00,solar,168.47,New York
+2025-06-10 11:00:00,wind,232.79,New York
+2025-06-10 11:00:00,solar,171.22,Los Angeles
+2025-06-10 11:00:00,wind,134.66,Los Angeles
+2025-06-10 11:00:00,solar,149.825,Chicago
+2025-06-10 11:00:00,wind,313.147,Chicago
+2025-06-10 11:00:00,solar,169.479,Houston
+2025-06-10 11:00:00,wind,207.471,Houston
+2025-06-10 11:00:00,solar,223.188,Phoenix
+2025-06-10 11:00:00,wind,69.266,Phoenix
+2025-06-10 12:00:00,solar,154.316,New York
+2025-06-10 12:00:00,wind,269.73,New York
+2025-06-10 12:00:00,solar,166.107,Los Angeles
+2025-06-10 12:00:00,wind,163.824,Los Angeles
+2025-06-10 12:00:00,solar,193.646,Chicago
+2025-06-10 12:00:00,wind,298.735,Chicago
+2025-06-10 12:00:00,solar,185.723,Houston
+2025-06-10 12:00:00,wind,160.729,Houston
+2025-06-10 12:00:00,solar,195.286,Phoenix
+2025-06-10 12:00:00,wind,130.315,Phoenix
+2025-06-10 13:00:00,solar,140.799,New York
+2025-06-10 13:00:00,wind,314.832,New York
+2025-06-10 13:00:00,solar,182.271,Los Angeles
+2025-06-10 13:00:00,wind,109.509,Los Angeles
+2025-06-10 13:00:00,solar,172.996,Chicago
+2025-06-10 13:00:00,wind,298.024,Chicago
+2025-06-10 13:00:00,solar,220.069,Houston
+2025-06-10 13:00:00,wind,218.01,Houston
+2025-06-10 13:00:00,solar,208.899,Phoenix
+2025-06-10 13:00:00,wind,9.013,Phoenix
+2025-06-10 14:00:00,solar,175.009,New York
+2025-06-10 14:00:00,wind,240.195,New York
+2025-06-10 14:00:00,solar,164.681,Los Angeles
+2025-06-10 14:00:00,wind,209.889,Los Angeles
+2025-06-10 14:00:00,solar,133.913,Chicago
+2025-06-10 14:00:00,wind,331.44,Chicago
+2025-06-10 14:00:00,solar,157.471,Houston
+2025-06-10 14:00:00,wind,192.583,Houston
+2025-06-10 14:00:00,solar,177.191,Phoenix
+2025-06-10 14:00:00,wind,41.022,Phoenix
+2025-06-10 15:00:00,solar,112.435,New York
+2025-06-10 15:00:00,wind,292.593,New York
+2025-06-10 15:00:00,solar,151.213,Los Angeles
+2025-06-10 15:00:00,wind,227.665,Los Angeles
+2025-06-10 15:00:00,solar,119.301,Chicago
+2025-06-10 15:00:00,wind,326.052,Chicago
+2025-06-10 15:00:00,solar,146.379,Houston
+2025-06-10 15:00:00,wind,201.992,Houston
+2025-06-10 15:00:00,solar,155.057,Phoenix
+2025-06-10 15:00:00,wind,37.859,Phoenix
+2025-06-10 16:00:00,solar,92.099,New York
+2025-06-10 16:00:00,wind,323.171,New York
+2025-06-10 16:00:00,solar,118.557,Los Angeles
+2025-06-10 16:00:00,wind,198.27,Los Angeles
+2025-06-10 16:00:00,solar,109.148,Chicago
+2025-06-10 16:00:00,wind,256.266,Chicago
+2025-06-10 16:00:00,solar,103.194,Houston
+2025-06-10 16:00:00,wind,121.18,Houston
+2025-06-10 16:00:00,solar,85.656,Phoenix
+2025-06-10 16:00:00,wind,12.301,Phoenix
+2025-06-10 17:00:00,solar,64.666,New York
+2025-06-10 17:00:00,wind,261.554,New York
+2025-06-10 17:00:00,solar,45.964,Los Angeles
+2025-06-10 17:00:00,wind,229.335,Los Angeles
+2025-06-10 17:00:00,solar,49.541,Chicago
+2025-06-10 17:00:00,wind,345.637,Chicago
+2025-06-10 17:00:00,solar,30.713,Houston
+2025-06-10 17:00:00,wind,158.448,Houston
+2025-06-10 17:00:00,solar,72.785,Phoenix
+2025-06-10 17:00:00,wind,167.775,Phoenix
+2025-06-10 18:00:00,solar,4.303,New York
+2025-06-10 18:00:00,wind,324.364,New York
+2025-06-10 18:00:00,solar,0.0,Los Angeles
+2025-06-10 18:00:00,wind,223.658,Los Angeles
+2025-06-10 18:00:00,solar,8.51,Chicago
+2025-06-10 18:00:00,wind,219.346,Chicago
+2025-06-10 18:00:00,solar,0.0,Houston
+2025-06-10 18:00:00,wind,177.762,Houston
+2025-06-10 18:00:00,solar,8.689,Phoenix
+2025-06-10 18:00:00,wind,94.371,Phoenix
+2025-06-10 19:00:00,solar,0.0,New York
+2025-06-10 19:00:00,wind,135.315,New York
+2025-06-10 19:00:00,solar,0.0,Los Angeles
+2025-06-10 19:00:00,wind,218.951,Los Angeles
+2025-06-10 19:00:00,solar,0.0,Chicago
+2025-06-10 19:00:00,wind,344.754,Chicago
+2025-06-10 19:00:00,solar,0.0,Houston
+2025-06-10 19:00:00,wind,218.349,Houston
+2025-06-10 19:00:00,solar,0.0,Phoenix
+2025-06-10 19:00:00,wind,101.131,Phoenix
+2025-06-10 20:00:00,solar,0.0,New York
+2025-06-10 20:00:00,wind,241.077,New York
+2025-06-10 20:00:00,solar,0.0,Los Angeles
+2025-06-10 20:00:00,wind,189.076,Los Angeles
+2025-06-10 20:00:00,solar,0.0,Chicago
+2025-06-10 20:00:00,wind,256.782,Chicago
+2025-06-10 20:00:00,solar,0.0,Houston
+2025-06-10 20:00:00,wind,246.084,Houston
+2025-06-10 20:00:00,solar,0.0,Phoenix
+2025-06-10 20:00:00,wind,47.343,Phoenix
+2025-06-10 21:00:00,solar,0.0,New York
+2025-06-10 21:00:00,wind,215.835,New York
+2025-06-10 21:00:00,solar,0.0,Los Angeles
+2025-06-10 21:00:00,wind,88.437,Los Angeles
+2025-06-10 21:00:00,solar,0.0,Chicago
+2025-06-10 21:00:00,wind,265.245,Chicago
+2025-06-10 21:00:00,solar,0.0,Houston
+2025-06-10 21:00:00,wind,207.984,Houston
+2025-06-10 21:00:00,solar,0.0,Phoenix
+2025-06-10 21:00:00,wind,174.215,Phoenix
+2025-06-10 22:00:00,solar,0.0,New York
+2025-06-10 22:00:00,wind,215.003,New York
+2025-06-10 22:00:00,solar,0.0,Los Angeles
+2025-06-10 22:00:00,wind,168.414,Los Angeles
+2025-06-10 22:00:00,solar,0.0,Chicago
+2025-06-10 22:00:00,wind,321.072,Chicago
+2025-06-10 22:00:00,solar,0.0,Houston
+2025-06-10 22:00:00,wind,184.016,Houston
+2025-06-10 22:00:00,solar,0.0,Phoenix
+2025-06-10 22:00:00,wind,150.547,Phoenix
+2025-06-10 23:00:00,solar,0.0,New York
+2025-06-10 23:00:00,wind,157.83,New York
+2025-06-10 23:00:00,solar,0.0,Los Angeles
+2025-06-10 23:00:00,wind,207.407,Los Angeles
+2025-06-10 23:00:00,solar,0.0,Chicago
+2025-06-10 23:00:00,wind,305.65,Chicago
+2025-06-10 23:00:00,solar,0.0,Houston
+2025-06-10 23:00:00,wind,159.707,Houston
+2025-06-10 23:00:00,solar,0.0,Phoenix
+2025-06-10 23:00:00,wind,139.21,Phoenix
+2025-06-11 00:00:00,solar,0.0,New York
+2025-06-11 00:00:00,wind,291.49,New York
+2025-06-11 00:00:00,solar,0.0,Los Angeles
+2025-06-11 00:00:00,wind,131.414,Los Angeles
+2025-06-11 00:00:00,solar,0.0,Chicago
+2025-06-11 00:00:00,wind,317.812,Chicago
+2025-06-11 00:00:00,solar,0.0,Houston
+2025-06-11 00:00:00,wind,202.808,Houston
+2025-06-11 00:00:00,solar,0.0,Phoenix
+2025-06-11 00:00:00,wind,11.478,Phoenix
+2025-06-11 01:00:00,solar,0.0,New York
+2025-06-11 01:00:00,wind,264.704,New York
+2025-06-11 01:00:00,solar,0.0,Los Angeles
+2025-06-11 01:00:00,wind,260.832,Los Angeles
+2025-06-11 01:00:00,solar,0.0,Chicago
+2025-06-11 01:00:00,wind,165.47,Chicago
+2025-06-11 01:00:00,solar,0.0,Houston
+2025-06-11 01:00:00,wind,151.247,Houston
+2025-06-11 01:00:00,solar,0.0,Phoenix
+2025-06-11 01:00:00,wind,113.863,Phoenix
+2025-06-11 02:00:00,solar,0.0,New York
+2025-06-11 02:00:00,wind,238.776,New York
+2025-06-11 02:00:00,solar,0.0,Los Angeles
+2025-06-11 02:00:00,wind,229.402,Los Angeles
+2025-06-11 02:00:00,solar,0.0,Chicago
+2025-06-11 02:00:00,wind,330.202,Chicago
+2025-06-11 02:00:00,solar,0.0,Houston
+2025-06-11 02:00:00,wind,151.242,Houston
+2025-06-11 02:00:00,solar,0.0,Phoenix
+2025-06-11 02:00:00,wind,110.74,Phoenix
+2025-06-11 03:00:00,solar,0.0,New York
+2025-06-11 03:00:00,wind,231.349,New York
+2025-06-11 03:00:00,solar,0.0,Los Angeles
+2025-06-11 03:00:00,wind,126.324,Los Angeles
+2025-06-11 03:00:00,solar,0.0,Chicago
+2025-06-11 03:00:00,wind,359.001,Chicago
+2025-06-11 03:00:00,solar,0.0,Houston
+2025-06-11 03:00:00,wind,218.187,Houston
+2025-06-11 03:00:00,solar,0.0,Phoenix
+2025-06-11 03:00:00,wind,125.489,Phoenix
+2025-06-11 04:00:00,solar,0.0,New York
+2025-06-11 04:00:00,wind,234.525,New York
+2025-06-11 04:00:00,solar,0.0,Los Angeles
+2025-06-11 04:00:00,wind,170.319,Los Angeles
+2025-06-11 04:00:00,solar,0.0,Chicago
+2025-06-11 04:00:00,wind,359.177,Chicago
+2025-06-11 04:00:00,solar,0.0,Houston
+2025-06-11 04:00:00,wind,194.507,Houston
+2025-06-11 04:00:00,solar,0.0,Phoenix
+2025-06-11 04:00:00,wind,91.413,Phoenix
+2025-06-11 05:00:00,solar,0.0,New York
+2025-06-11 05:00:00,wind,295.787,New York
+2025-06-11 05:00:00,solar,0.0,Los Angeles
+2025-06-11 05:00:00,wind,185.037,Los Angeles
+2025-06-11 05:00:00,solar,0.0,Chicago
+2025-06-11 05:00:00,wind,330.31,Chicago
+2025-06-11 05:00:00,solar,0.0,Houston
+2025-06-11 05:00:00,wind,246.937,Houston
+2025-06-11 05:00:00,solar,0.0,Phoenix
+2025-06-11 05:00:00,wind,99.141,Phoenix
+2025-06-11 06:00:00,solar,6.752,New York
+2025-06-11 06:00:00,wind,223.757,New York
+2025-06-11 06:00:00,solar,13.702,Los Angeles
+2025-06-11 06:00:00,wind,89.113,Los Angeles
+2025-06-11 06:00:00,solar,0.0,Chicago
+2025-06-11 06:00:00,wind,273.973,Chicago
+2025-06-11 06:00:00,solar,0.0,Houston
+2025-06-11 06:00:00,wind,146.457,Houston
+2025-06-11 06:00:00,solar,4.814,Phoenix
+2025-06-11 06:00:00,wind,117.602,Phoenix
+2025-06-11 07:00:00,solar,30.386,New York
+2025-06-11 07:00:00,wind,217.793,New York
+2025-06-11 07:00:00,solar,52.209,Los Angeles
+2025-06-11 07:00:00,wind,123.469,Los Angeles
+2025-06-11 07:00:00,solar,69.966,Chicago
+2025-06-11 07:00:00,wind,235.524,Chicago
+2025-06-11 07:00:00,solar,51.434,Houston
+2025-06-11 07:00:00,wind,203.88,Houston
+2025-06-11 07:00:00,solar,56.801,Phoenix
+2025-06-11 07:00:00,wind,118.492,Phoenix
+2025-06-11 08:00:00,solar,90.369,New York
+2025-06-11 08:00:00,wind,192.269,New York
+2025-06-11 08:00:00,solar,106.064,Los Angeles
+2025-06-11 08:00:00,wind,120.054,Los Angeles
+2025-06-11 08:00:00,solar,81.47,Chicago
+2025-06-11 08:00:00,wind,247.636,Chicago
+2025-06-11 08:00:00,solar,99.22,Houston
+2025-06-11 08:00:00,wind,182.903,Houston
+2025-06-11 08:00:00,solar,97.711,Phoenix
+2025-06-11 08:00:00,wind,110.145,Phoenix
+2025-06-11 09:00:00,solar,101.644,New York
+2025-06-11 09:00:00,wind,236.05,New York
+2025-06-11 09:00:00,solar,141.327,Los Angeles
+2025-06-11 09:00:00,wind,145.983,Los Angeles
+2025-06-11 09:00:00,solar,133.586,Chicago
+2025-06-11 09:00:00,wind,290.883,Chicago
+2025-06-11 09:00:00,solar,134.253,Houston
+2025-06-11 09:00:00,wind,218.832,Houston
+2025-06-11 09:00:00,solar,137.861,Phoenix
+2025-06-11 09:00:00,wind,87.392,Phoenix
+2025-06-11 10:00:00,solar,153.182,New York
+2025-06-11 10:00:00,wind,291.54,New York
+2025-06-11 10:00:00,solar,145.273,Los Angeles
+2025-06-11 10:00:00,wind,230.005,Los Angeles
+2025-06-11 10:00:00,solar,133.975,Chicago
+2025-06-11 10:00:00,wind,278.645,Chicago
+2025-06-11 10:00:00,solar,160.337,Houston
+2025-06-11 10:00:00,wind,241.045,Houston
+2025-06-11 10:00:00,solar,189.879,Phoenix
+2025-06-11 10:00:00,wind,120.308,Phoenix
+2025-06-11 11:00:00,solar,157.776,New York
+2025-06-11 11:00:00,wind,324.482,New York
+2025-06-11 11:00:00,solar,196.96,Los Angeles
+2025-06-11 11:00:00,wind,145.17,Los Angeles
+2025-06-11 11:00:00,solar,159.012,Chicago
+2025-06-11 11:00:00,wind,394.893,Chicago
+2025-06-11 11:00:00,solar,195.956,Houston
+2025-06-11 11:00:00,wind,114.39,Houston
+2025-06-11 11:00:00,solar,208.864,Phoenix
+2025-06-11 11:00:00,wind,69.684,Phoenix
